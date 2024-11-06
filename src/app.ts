@@ -1,25 +1,32 @@
 import express, { Application } from "express";
 import { jsonMiddleware } from "./middlewares/jsonMiddleware";
 import router from "./routes/translationRoutes";
-import swaggerJsdoc from "swagger-jsdoc";
 import swaggerUi from "swagger-ui-express";
+import swaggerJSDoc from "swagger-jsdoc";
 
 const app: Application = express();
 
 const swaggerOptions = {
-  swaggerDefinition: {
+  definition: {
+    openapi: "3.0.0",
     info: {
-      title: "Kikito API",
+      title: "Minha API",
       version: "1.0.0",
-      description: "A melhor e mais bonita API em Node.js",
+      description: "Esta é a documentação da minha API",
     },
-    basePath: "/",
+    servers: [
+      {
+        url: "https://api-traducao-node.vercel.app",
+      },
+    ],
   },
-  apis: ["./src/routes/*.ts"],
+  apis: ["./src/routes/*.ts", "./src/controllers/*.ts"],
 };
 
-const swaggerDocs = swaggerJsdoc(swaggerOptions);
+// Gerar a documentação Swagger a partir dos JSDoc
+const swaggerDocs = swaggerJSDoc(swaggerOptions);
 
+// Configurar o Swagger UI no caminho /api-docs
 app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 
 app.use(jsonMiddleware);
