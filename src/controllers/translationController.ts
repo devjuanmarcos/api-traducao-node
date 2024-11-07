@@ -27,9 +27,11 @@ export const translateJsonEndpoint = async (
     const filePath = path.join(folderPath, fileName);
     fs.writeFileSync(filePath, JSON.stringify(translatedJson, null, 2));
 
-    res
-      .status(200)
-      .json({ message: `JSON traduzido e salvo como ${fileName}` });
+    res.status(200).json({
+      message: `JSON traduzido e salvo como ${fileName}; JSON: ${JSON.stringify(
+        translatedJson
+      )}  `,
+    });
   } catch (error) {
     next(error);
   }
