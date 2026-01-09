@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "پخش کننده صدا",
+    "acessibilidade": "قابلیت دسترسی",
+    "switchWithIcon": {
+      "light": "به طرح زمینه روشن تغییر دهید",
+      "dark": "به طرح زمینه تیره بروید"
+    },
+    "ativarVLibras": "VLibras را فعال کنید",
+    "trocarIdioma": "تغییر زبان",
+    "desenvolvida": {
+      "ferramenta": "ابزار",
+      "desenvolvida": "توسعه یافته توسط"
+    },
+    "logo": "لوگوی Biomob",
+    "barraLateral": "تغییر وضعیت نوار کناری وب سایت",
+    "nossasSolucoes": "راه حل های ما",
+    "nossasSolucoesLabel": "راه حل ها را مشاهده کنید",
+    "acessibilidadeArq": "دسترسی معماری",
+    "acessibilidadeArqLabel": "به صفحه Architectural Accessibility بروید",
+    "acessibilidadeDig": "دسترسی دیجیتال",
+    "acessibilidadeDigLabel": "به صفحه دسترسی دیجیتال بروید",
+    "noticias": "اخبار",
+    "noticiasLabel": "به صفحه اخبار بروید",
+    "institudo": "تنظیم",
+    "institudoLabel": "به صفحه تنظیمات بروید",
+    "empregabilidade": "استخدام",
+    "empregabilidadeLabel": "به صفحه استخدام بروید",
+    "papoDiverso": "مکالمه متفاوت",
+    "papoDiversoLabel": "به وب سایت Verserend Gesprek بروید"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "زبان کار",
+        "ariaLabel": "زبان کار را انتخاب کنید"
+      },
+      "audiodescricao": {
+        "text": "توضیحات صوتی",
+        "ariaLabel": "فعال کردن توضیحات صوتی"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "زبانت را پیدا کن...",
+    "language": "پرتغالی ها (BR)",
+    "Portuguese": "پرتغالی ها (BR)",
+    "ChineseTraditional": "چینی سنتی",
+    "ChineseSimplified": "چینی ساده شده",
+    "English": "انگلس",
+    "French": "فرانس",
+    "German": "آلمانی",
+    "Italian": "ایتالیایی",
+    "Bengali": "بنگالی",
+    "Hindi": "هندی",
+    "Russian": "روسی",
+    "Japanese": "ژاپن",
+    "Korean": "کره ای",
+    "Vietnamese": "ویتنامی",
+    "Telugu": "تلوگو",
+    "Cantonese": "کانتونی",
+    "Marathi": "مراتی",
+    "Tamil": "تامیل",
+    "Turkish": "ترک ها",
+    "Urdu": "اردو",
+    "Gujarati": "گجراتی",
+    "Polish": "استخرها",
+    "Ukrainian": "اوکراینی",
+    "Malay": "مالایی",
+    "Kannada": "کانادا",
+    "Oriya": "اودیا",
+    "Punjabi": "پنجابی",
+    "Romanian": "رومانیایی",
+    "Azerbaijani": "آذربایجانی",
+    "Farsi": "فارسی",
+    "Burmese": "برمه ای",
+    "Thai": "تایلندی ها",
+    "Dutch": "هلندی",
+    "Yoruba": "یوروبا",
+    "Sindhi": "سندی"
+  }
+}

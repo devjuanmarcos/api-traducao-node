@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Reprodutor de áudio",
+    "acessibilidade": "Acessibilidade",
+    "switchWithIcon": {
+      "light": "Mudar para tema claro",
+      "dark": "Mudar para tema escuro"
+    },
+    "ativarVLibras": "Ativar VLibras",
+    "trocarIdioma": "Mudar idioma",
+    "desenvolvida": {
+      "ferramenta": "Ferramenta",
+      "desenvolvida": "desenvolvido por"
+    },
+    "logo": "Logotipo da BioMob",
+    "barraLateral": "Alterar o status da barra lateral do site",
+    "nossasSolucoes": "Nossas soluções",
+    "nossasSolucoesLabel": "Veja as soluções",
+    "acessibilidadeArq": "Acessibilidade Arquitetônica",
+    "acessibilidadeArqLabel": "Vá para a tela Acessibilidade arquitetônica",
+    "acessibilidadeDig": "Acessibilidade Digital",
+    "acessibilidadeDigLabel": "Vá para a tela Acessibilidade Digital",
+    "noticias": "Notícias",
+    "noticiasLabel": "Vá para a tela Notícias",
+    "institudo": "Contexto",
+    "institudoLabel": "Vá para a tela de configuração",
+    "empregabilidade": "Emprego",
+    "empregabilidadeLabel": "Vá para a tela Emprego",
+    "papoDiverso": "CONVERSA DIFERENTE",
+    "papoDiversoLabel": "Acesse o site da Verserend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Idioma de trabalho",
+        "ariaLabel": "Selecione o idioma de trabalho"
+      },
+      "audiodescricao": {
+        "text": "Descrição de áudio",
+        "ariaLabel": "Ativar audiodescrição"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Encontre seu idioma...",
+    "language": "Portugueses (BR)",
+    "Portuguese": "Portugueses (BR)",
+    "ChineseTraditional": "Chinês Tradicional",
+    "ChineseSimplified": "Chinês simplificado",
+    "English": "Inglês",
+    "French": "Frans",
+    "German": "Alemão",
+    "Italian": "italiano",
+    "Bengali": "bengali",
+    "Hindi": "hindi",
+    "Russian": "russo",
+    "Japanese": "do Japão",
+    "Korean": "coreano",
+    "Vietnamese": "vietnamita",
+    "Telugu": "Telugu",
+    "Cantonese": "cantonês",
+    "Marathi": "Marathi",
+    "Tamil": "tâmil",
+    "Turkish": "Turcas",
+    "Urdu": "urdu",
+    "Gujarati": "Guzerate",
+    "Polish": "Piscinas",
+    "Ukrainian": "ucraniano",
+    "Malay": "malaio",
+    "Kannada": "Kannada",
+    "Oriya": "Odia",
+    "Punjabi": "punjabi",
+    "Romanian": "romeno",
+    "Azerbaijani": "Azerbaijano",
+    "Farsi": "persa",
+    "Burmese": "birmanês",
+    "Thai": "Thais",
+    "Dutch": "Holandês",
+    "Yoruba": "Iorubá",
+    "Sindhi": "Sindi"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Audioplayer",
+    "acessibilidade": "Zugänglichkeit",
+    "switchWithIcon": {
+      "light": "Wechseln Sie zum Lichtthema",
+      "dark": "Wechseln Sie zum dunklen Thema"
+    },
+    "ativarVLibras": "Aktivieren Sie VLibras",
+    "trocarIdioma": "Sprache wechseln",
+    "desenvolvida": {
+      "ferramenta": "Werkzeug",
+      "desenvolvida": "entwickelt von"
+    },
+    "logo": "Biomob-Logo",
+    "barraLateral": "Ändern Sie den Status der Seitenleiste der Website",
+    "nossasSolucoes": "Unsere Lösungen",
+    "nossasSolucoesLabel": "Sehen Sie sich die Lösungen an",
+    "acessibilidadeArq": "Architektonische Zugänglichkeit",
+    "acessibilidadeArqLabel": "Gehen Sie zum Bildschirm „Architektonische Barrierefreiheit“.",
+    "acessibilidadeDig": "Digitale Zugänglichkeit",
+    "acessibilidadeDigLabel": "Gehen Sie zum Bildschirm „Digitale Barrierefreiheit“.",
+    "noticias": "Nachricht",
+    "noticiasLabel": "Gehen Sie zum Nachrichtenbildschirm",
+    "institudo": "Einstellung",
+    "institudoLabel": "Gehen Sie zum Einstellungsbildschirm",
+    "empregabilidade": "Anstellung",
+    "empregabilidadeLabel": "Gehen Sie zum Bildschirm „Beschäftigung“.",
+    "papoDiverso": "ANDERES GESPRÄCH",
+    "papoDiversoLabel": "Gehen Sie zur Website von Verserend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Arbeitssprache",
+        "ariaLabel": "Arbeitssprache auswählen"
+      },
+      "audiodescricao": {
+        "text": "Audiodescriptie",
+        "ariaLabel": "Audiodeskription aktivieren"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Finden Sie Ihre Sprache...",
+    "language": "Portugiesen (BR)",
+    "Portuguese": "Portugiesen (BR)",
+    "ChineseTraditional": "Traditionelles Chinesisch",
+    "ChineseSimplified": "Vereinfachtes Chinesisch",
+    "English": "Engels",
+    "French": "Frans",
+    "German": "Deutsch",
+    "Italian": "Italienisch",
+    "Bengali": "Bengali",
+    "Hindi": "Hindi",
+    "Russian": "Russisch",
+    "Japanese": "von Japan",
+    "Korean": "Koreanisch",
+    "Vietnamese": "Vietnamesisch",
+    "Telugu": "Telugu",
+    "Cantonese": "Kantonesisch",
+    "Marathi": "Marathi",
+    "Tamil": "Tamilisch",
+    "Turkish": "Türken",
+    "Urdu": "Urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Pools",
+    "Ukrainian": "ukrainisch",
+    "Malay": "malaiisch",
+    "Kannada": "Kannada",
+    "Oriya": "Odia",
+    "Punjabi": "Punjabi",
+    "Romanian": "rumänisch",
+    "Azerbaijani": "Aserbaidschanisch",
+    "Farsi": "persisch",
+    "Burmese": "birmanisch",
+    "Thai": "Thailänder",
+    "Dutch": "Niederländisch",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

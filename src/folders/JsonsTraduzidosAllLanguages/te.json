@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "ఆడియో ప్లేయర్",
+    "acessibilidade": "యాక్సెసిబిలిటీ",
+    "switchWithIcon": {
+      "light": "లైట్ థీమ్‌కి మారండి",
+      "dark": "డార్క్ థీమ్‌కి మారండి"
+    },
+    "ativarVLibras": "VLibrasని యాక్టివేట్ చేయండి",
+    "trocarIdioma": "భాష మారండి",
+    "desenvolvida": {
+      "ferramenta": "సాధనం",
+      "desenvolvida": "ద్వారా అభివృద్ధి చేయబడింది"
+    },
+    "logo": "బయోమాబ్ లోగో",
+    "barraLateral": "వెబ్‌సైట్ సైడ్‌బార్ స్థితిని మార్చండి",
+    "nossasSolucoes": "మా పరిష్కారాలు",
+    "nossasSolucoesLabel": "పరిష్కారాలను చూడండి",
+    "acessibilidadeArq": "ఆర్కిటెక్చరల్ యాక్సెస్బిలిటీ",
+    "acessibilidadeArqLabel": "ఆర్కిటెక్చరల్ యాక్సెసిబిలిటీ స్క్రీన్‌కి వెళ్లండి",
+    "acessibilidadeDig": "డిజిటల్ యాక్సెసిబిలిటీ",
+    "acessibilidadeDigLabel": "డిజిటల్ యాక్సెసిబిలిటీ స్క్రీన్‌కి వెళ్లండి",
+    "noticias": "వార్తలు",
+    "noticiasLabel": "న్యూస్ స్క్రీన్‌కి వెళ్లండి",
+    "institudo": "సెట్టింగ్",
+    "institudoLabel": "సెట్టింగ్ స్క్రీన్‌కి వెళ్లండి",
+    "empregabilidade": "ఉపాధి",
+    "empregabilidadeLabel": "ఉపాధి స్క్రీన్‌కి వెళ్లండి",
+    "papoDiverso": "భిన్నమైన సంభాషణ",
+    "papoDiversoLabel": "Verseren Gesprek వెబ్‌సైట్‌కి వెళ్లండి"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "పని భాష",
+        "ariaLabel": "పని యొక్క భాషను ఎంచుకోండి"
+      },
+      "audiodescricao": {
+        "text": "ఆడియో వివరణ",
+        "ariaLabel": "ఆడియో వివరణను సక్రియం చేయండి"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "మీ భాషను కనుగొనండి...",
+    "language": "పోర్చుగీస్ (BR)",
+    "Portuguese": "పోర్చుగీస్ (BR)",
+    "ChineseTraditional": "సాంప్రదాయ చైనీస్",
+    "ChineseSimplified": "సరళీకృత చైనీస్",
+    "English": "ఎంగెల్స్",
+    "French": "ఫ్రాన్స్",
+    "German": "జర్మన్",
+    "Italian": "ఇటాలియన్",
+    "Bengali": "బెంగాలీ",
+    "Hindi": "హిందీ",
+    "Russian": "రష్యన్",
+    "Japanese": "జపాన్",
+    "Korean": "కొరియన్",
+    "Vietnamese": "వియత్నామీస్",
+    "Telugu": "తెలుగు",
+    "Cantonese": "కాంటోనీస్",
+    "Marathi": "మరాఠీ",
+    "Tamil": "తమిళం",
+    "Turkish": "టర్క్స్",
+    "Urdu": "ఉర్దూ",
+    "Gujarati": "గుజరాతీ",
+    "Polish": "కొలనులు",
+    "Ukrainian": "ఉక్రేనియన్",
+    "Malay": "మలయ్",
+    "Kannada": "కన్నడ",
+    "Oriya": "ఒడియా",
+    "Punjabi": "పంజాబీ",
+    "Romanian": "రొమేనియన్",
+    "Azerbaijani": "అజర్బైజాన్",
+    "Farsi": "పర్షియన్",
+    "Burmese": "బర్మీస్",
+    "Thai": "థైస్",
+    "Dutch": "డచ్",
+    "Yoruba": "యోరుబా",
+    "Sindhi": "సింధీ"
+  }
+}

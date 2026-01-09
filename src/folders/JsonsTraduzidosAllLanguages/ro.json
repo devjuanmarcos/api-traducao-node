@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Player audio",
+    "acessibilidade": "Accesibilitate",
+    "switchWithIcon": {
+      "light": "Comutați la tema luminoasă",
+      "dark": "Comutați la tema întunecată"
+    },
+    "ativarVLibras": "Activați VLibras",
+    "trocarIdioma": "Schimbați limba",
+    "desenvolvida": {
+      "ferramenta": "Instrument",
+      "desenvolvida": "dezvoltat de"
+    },
+    "logo": "Logo Biomob",
+    "barraLateral": "Schimbați starea barei laterale a site-ului web",
+    "nossasSolucoes": "Soluțiile noastre",
+    "nossasSolucoesLabel": "Vezi soluțiile",
+    "acessibilidadeArq": "Accesibilitatea arhitecturală",
+    "acessibilidadeArqLabel": "Accesați ecranul Accesibilitate arhitecturală",
+    "acessibilidadeDig": "Accesibilitate digitală",
+    "acessibilidadeDigLabel": "Accesați ecranul Accesibilitate digitală",
+    "noticias": "Ştiri",
+    "noticiasLabel": "Accesați ecranul Știri",
+    "institudo": "Setare",
+    "institudoLabel": "Accesați ecranul Setări",
+    "empregabilidade": "Angajare",
+    "empregabilidadeLabel": "Accesați ecranul Angajare",
+    "papoDiverso": "CONVERSAȚIE DIFERITĂ",
+    "papoDiversoLabel": "Accesați site-ul web Verserend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Limba de lucru",
+        "ariaLabel": "Selectați limba de lucru"
+      },
+      "audiodescricao": {
+        "text": "Descriere audio",
+        "ariaLabel": "Activați descrierea audio"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Găsește-ți limba...",
+    "language": "portughezi (BR)",
+    "Portuguese": "portughezi (BR)",
+    "ChineseTraditional": "Chineză tradițională",
+    "ChineseSimplified": "Chineză simplificată",
+    "English": "Engels",
+    "French": "Frans",
+    "German": "german",
+    "Italian": "italian",
+    "Bengali": "bengaleză",
+    "Hindi": "hindi",
+    "Russian": "rusă",
+    "Japanese": "a Japoniei",
+    "Korean": "coreean",
+    "Vietnamese": "vietnamez",
+    "Telugu": "Telugu",
+    "Cantonese": "cantoneză",
+    "Marathi": "marathi",
+    "Tamil": "tamil",
+    "Turkish": "turci",
+    "Urdu": "Urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Piscine",
+    "Ukrainian": "ucrainean",
+    "Malay": "Malaeză",
+    "Kannada": "Kannada",
+    "Oriya": "Odia",
+    "Punjabi": "punjabi",
+    "Romanian": "română",
+    "Azerbaijani": "Azerbaidjan",
+    "Farsi": "persană",
+    "Burmese": "birmanez",
+    "Thai": "Thais",
+    "Dutch": "olandeză",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

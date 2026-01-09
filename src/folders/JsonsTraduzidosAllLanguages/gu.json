@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "ઓડિયો પ્લેયર",
+    "acessibilidade": "સુલભતા",
+    "switchWithIcon": {
+      "light": "લાઇટ થીમ પર સ્વિચ કરો",
+      "dark": "ડાર્ક થીમ પર સ્વિચ કરો"
+    },
+    "ativarVLibras": "VLibras સક્રિય કરો",
+    "trocarIdioma": "ભાષા સ્વિચ કરો",
+    "desenvolvida": {
+      "ferramenta": "સાધન",
+      "desenvolvida": "દ્વારા વિકસિત"
+    },
+    "logo": "બાયોમોબ લોગો",
+    "barraLateral": "વેબસાઇટ સાઇડબાર સ્થિતિ બદલો",
+    "nossasSolucoes": "અમારા ઉકેલો",
+    "nossasSolucoesLabel": "ઉકેલો જુઓ",
+    "acessibilidadeArq": "આર્કિટેક્ચરલ સુલભતા",
+    "acessibilidadeArqLabel": "આર્કિટેક્ચરલ એક્સેસિબિલિટી સ્ક્રીન પર જાઓ",
+    "acessibilidadeDig": "ડિજિટલ સુલભતા",
+    "acessibilidadeDigLabel": "ડિજિટલ ઍક્સેસિબિલિટી સ્ક્રીન પર જાઓ",
+    "noticias": "સમાચાર",
+    "noticiasLabel": "સમાચાર સ્ક્રીન પર જાઓ",
+    "institudo": "સેટિંગ",
+    "institudoLabel": "સેટિંગ સ્ક્રીન પર જાઓ",
+    "empregabilidade": "રોજગાર",
+    "empregabilidadeLabel": "રોજગાર સ્ક્રીન પર જાઓ",
+    "papoDiverso": "જુદી જુદી વાતચીત",
+    "papoDiversoLabel": "Verserend Gesprek વેબસાઇટ પર જાઓ"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "કામની ભાષા",
+        "ariaLabel": "કામની ભાષા પસંદ કરો"
+      },
+      "audiodescricao": {
+        "text": "ઓડિયો વર્ણન",
+        "ariaLabel": "ઑડિઓ વર્ણન સક્રિય કરો"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "તમારી ભાષા શોધો...",
+    "language": "પોર્ટુગીઝ (BR)",
+    "Portuguese": "પોર્ટુગીઝ (BR)",
+    "ChineseTraditional": "પરંપરાગત ચાઇનીઝ",
+    "ChineseSimplified": "સરળ ચિની",
+    "English": "એંગલ્સ",
+    "French": "ફ્રાન્સ",
+    "German": "જર્મન",
+    "Italian": "ઇટાલિયન",
+    "Bengali": "બંગાળી",
+    "Hindi": "હિન્દી",
+    "Russian": "રશિયન",
+    "Japanese": "જાપાનના",
+    "Korean": "કોરિયન",
+    "Vietnamese": "વિયેતનામીસ",
+    "Telugu": "તેલુગુ",
+    "Cantonese": "કેન્ટોનીઝ",
+    "Marathi": "મરાઠી",
+    "Tamil": "તમિલ",
+    "Turkish": "ટર્ક્સ",
+    "Urdu": "ઉર્દુ",
+    "Gujarati": "ગુજરાતી",
+    "Polish": "પૂલ",
+    "Ukrainian": "યુક્રેનિયન",
+    "Malay": "મલય",
+    "Kannada": "કન્નડ",
+    "Oriya": "ઓડિયા",
+    "Punjabi": "પંજાબી",
+    "Romanian": "રોમાનિયન",
+    "Azerbaijani": "અઝરબૈજાની",
+    "Farsi": "ફારસી",
+    "Burmese": "બર્મીઝ",
+    "Thai": "થાઈસ",
+    "Dutch": "ડચ",
+    "Yoruba": "યોરૂબા",
+    "Sindhi": "સિંધી"
+  }
+}

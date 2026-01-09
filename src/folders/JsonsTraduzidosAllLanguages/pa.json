@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "ਆਡੀਓ ਪਲੇਅਰ",
+    "acessibilidade": "ਪਹੁੰਚਯੋਗਤਾ",
+    "switchWithIcon": {
+      "light": "ਹਲਕੇ ਥੀਮ 'ਤੇ ਸਵਿਚ ਕਰੋ",
+      "dark": "ਡਾਰਕ ਥੀਮ 'ਤੇ ਸਵਿਚ ਕਰੋ"
+    },
+    "ativarVLibras": "VLibras ਨੂੰ ਸਰਗਰਮ ਕਰੋ",
+    "trocarIdioma": "ਭਾਸ਼ਾ ਬਦਲੋ",
+    "desenvolvida": {
+      "ferramenta": "ਟੂਲ",
+      "desenvolvida": "ਦੁਆਰਾ ਵਿਕਸਤ ਕੀਤਾ ਗਿਆ ਹੈ"
+    },
+    "logo": "ਬਾਇਓਮੋਬ ਲੋਗੋ",
+    "barraLateral": "ਵੈੱਬਸਾਈਟ ਸਾਈਡਬਾਰ ਸਥਿਤੀ ਬਦਲੋ",
+    "nossasSolucoes": "ਸਾਡੇ ਹੱਲ",
+    "nossasSolucoesLabel": "ਹੱਲ ਵੇਖੋ",
+    "acessibilidadeArq": "ਆਰਕੀਟੈਕਚਰਲ ਪਹੁੰਚਯੋਗਤਾ",
+    "acessibilidadeArqLabel": "ਆਰਕੀਟੈਕਚਰਲ ਐਕਸੈਸਬਿਲਟੀ ਸਕ੍ਰੀਨ 'ਤੇ ਜਾਓ",
+    "acessibilidadeDig": "ਡਿਜੀਟਲ ਪਹੁੰਚਯੋਗਤਾ",
+    "acessibilidadeDigLabel": "ਡਿਜੀਟਲ ਅਸੈਸਬਿਲਟੀ ਸਕ੍ਰੀਨ 'ਤੇ ਜਾਓ",
+    "noticias": "ਖ਼ਬਰਾਂ",
+    "noticiasLabel": "ਨਿਊਜ਼ ਸਕ੍ਰੀਨ 'ਤੇ ਜਾਓ",
+    "institudo": "ਸੈਟਿੰਗ",
+    "institudoLabel": "ਸੈਟਿੰਗ ਸਕ੍ਰੀਨ 'ਤੇ ਜਾਓ",
+    "empregabilidade": "ਰੁਜ਼ਗਾਰ",
+    "empregabilidadeLabel": "ਰੁਜ਼ਗਾਰ ਸਕ੍ਰੀਨ 'ਤੇ ਜਾਓ",
+    "papoDiverso": "ਵੱਖ-ਵੱਖ ਗੱਲਬਾਤ",
+    "papoDiversoLabel": "Verserend Gesprek ਵੈੱਬਸਾਈਟ 'ਤੇ ਜਾਓ"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "ਕੰਮ ਦੀ ਭਾਸ਼ਾ",
+        "ariaLabel": "ਕੰਮ ਦੀ ਭਾਸ਼ਾ ਚੁਣੋ"
+      },
+      "audiodescricao": {
+        "text": "ਆਡੀਓ ਵਰਣਨ",
+        "ariaLabel": "ਆਡੀਓ ਵਰਣਨ ਨੂੰ ਸਰਗਰਮ ਕਰੋ"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "ਆਪਣੀ ਭਾਸ਼ਾ ਲੱਭੋ...",
+    "language": "ਪੁਰਤਗਾਲੀ (BR)",
+    "Portuguese": "ਪੁਰਤਗਾਲੀ (BR)",
+    "ChineseTraditional": "ਰਵਾਇਤੀ ਚੀਨੀ",
+    "ChineseSimplified": "ਸਰਲੀਕ੍ਰਿਤ ਚੀਨੀ",
+    "English": "ਏਂਗਲਜ਼",
+    "French": "ਫ੍ਰਾਂਸ",
+    "German": "ਜਰਮਨ",
+    "Italian": "ਇਤਾਲਵੀ",
+    "Bengali": "ਬੰਗਾਲੀ",
+    "Hindi": "ਹਿੰਦੀ",
+    "Russian": "ਰੂਸੀ",
+    "Japanese": "ਜਪਾਨ ਦੇ",
+    "Korean": "ਕੋਰੀਅਨ",
+    "Vietnamese": "ਵੀਅਤਨਾਮੀ",
+    "Telugu": "ਤੇਲਗੂ",
+    "Cantonese": "ਕੈਂਟੋਨੀਜ਼",
+    "Marathi": "ਮਰਾਠੀ",
+    "Tamil": "ਤਾਮਿਲ",
+    "Turkish": "ਤੁਰਕ",
+    "Urdu": "ਉਰਦੂ",
+    "Gujarati": "ਗੁਜਰਾਤੀ",
+    "Polish": "ਪੂਲ",
+    "Ukrainian": "ਯੂਕਰੇਨੀ",
+    "Malay": "ਮਾਲੇ",
+    "Kannada": "ਕੰਨੜ",
+    "Oriya": "ਓਡੀਆ",
+    "Punjabi": "ਪੰਜਾਬੀ",
+    "Romanian": "ਰੋਮਾਨੀਅਨ",
+    "Azerbaijani": "ਅਜ਼ਰਬਾਈਜਾਨੀ",
+    "Farsi": "ਫਾਰਸੀ",
+    "Burmese": "ਬਰਮੀ",
+    "Thai": "ਥਾਈਸ",
+    "Dutch": "ਡੱਚ",
+    "Yoruba": "ਯੋਰੂਬਾ",
+    "Sindhi": "ਸਿੰਧੀ"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "အသံဖွင့်စက်",
+    "acessibilidade": "သုံးစွဲနိုင်မှု",
+    "switchWithIcon": {
+      "light": "အလင်းအပြင်အဆင်သို့ ပြောင်းပါ။",
+      "dark": "အမှောင် အပြင်အဆင်သို့ ပြောင်းပါ။"
+    },
+    "ativarVLibras": "VLibras ကို အသက်သွင်းပါ။",
+    "trocarIdioma": "ဘာသာစကားပြောင်းပါ။",
+    "desenvolvida": {
+      "ferramenta": "ကိရိယာ",
+      "desenvolvida": "မှတီထွင်ခဲ့သည်။"
+    },
+    "logo": "Biomob လိုဂို",
+    "barraLateral": "ဝဘ်ဆိုက်ဘေးဘား အခြေအနေကို ပြောင်းပါ။",
+    "nossasSolucoes": "ကျွန်ုပ်တို့၏ဖြေရှင်းချက်များ",
+    "nossasSolucoesLabel": "ဖြေရှင်းချက်များကိုကြည့်ပါ။",
+    "acessibilidadeArq": "ဗိသုကာဆိုင်ရာ သုံးစွဲနိုင်မှု",
+    "acessibilidadeArqLabel": "Architectural Accessibility မျက်နှာပြင်သို့ သွားပါ။",
+    "acessibilidadeDig": "ဒစ်ဂျစ်တယ်သုံးစွဲနိုင်မှု",
+    "acessibilidadeDigLabel": "ဒစ်ဂျစ်တယ်သုံးစွဲနိုင်မှု မျက်နှာပြင်သို့ သွားပါ။",
+    "noticias": "သတင်း",
+    "noticiasLabel": "သတင်းဖန်သားပြင်သို့သွားပါ။",
+    "institudo": "ဆက်တင်",
+    "institudoLabel": "Setting မျက်နှာပြင်ကိုသွားပါ။",
+    "empregabilidade": "အလုပ်အကိုင်",
+    "empregabilidadeLabel": "အလုပ်အကိုင် မျက်နှာပြင်ကို သွားပါ။",
+    "papoDiverso": "မတူညီသော စကားဝိုင်း",
+    "papoDiversoLabel": "Verserend Gesprek ဝဘ်ဆိုဒ်သို့ သွားပါ။"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "အလုပ်ဘာသာစကား",
+        "ariaLabel": "အလုပ်ဘာသာစကားကို ရွေးချယ်ပါ။"
+      },
+      "audiodescricao": {
+        "text": "အသံဖော်ပြချက်",
+        "ariaLabel": "အသံဖော်ပြချက်ကို အသက်သွင်းပါ။"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "သင့်ဘာသာစကားကိုရှာပါ...",
+    "language": "ပေါ်တူဂီများ (BR)",
+    "Portuguese": "ပေါ်တူဂီများ (BR)",
+    "ChineseTraditional": "တရုတ်ရိုးရာ",
+    "ChineseSimplified": "ရိုးရှင်းသော တရုတ်",
+    "English": "အိန်ဂျယ်",
+    "French": "ဖရန့်စ်",
+    "German": "ဂျာမန်",
+    "Italian": "အီတလီ",
+    "Bengali": "ဘင်္ဂါလီ",
+    "Hindi": "ဟိန္ဒီ",
+    "Russian": "ရုရှ",
+    "Japanese": "ဂျပန်၏",
+    "Korean": "ကိုးရီးယား",
+    "Vietnamese": "ဗီယက်နမ်",
+    "Telugu": "အဂု",
+    "Cantonese": "ကန်တုံ",
+    "Marathi": "မာရသီ",
+    "Tamil": "တမီလ်",
+    "Turkish": "တာ့",
+    "Urdu": "အူရဒူ",
+    "Gujarati": "ဂူဂျာရတ်",
+    "Polish": "ပူးတယ်။",
+    "Ukrainian": "ယူကရိန်း",
+    "Malay": "မလေး",
+    "Kannada": "ကန်နာဒါ",
+    "Oriya": "အိုဒီးယား",
+    "Punjabi": "ပန်ချာပီ",
+    "Romanian": "ရိုမေးနီးယား",
+    "Azerbaijani": "အဇာဘိုင်ဂျန်",
+    "Farsi": "ပါရှန်း",
+    "Burmese": "မြန်မာ",
+    "Thai": "ထိုင်းတွေ",
+    "Dutch": "ဒတ်ခ်ျ",
+    "Yoruba": "ရိုရုဘာ",
+    "Sindhi": "ဒြီ"
+  }
+}

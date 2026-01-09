@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "reproductor de audio",
+    "acessibilidade": "Accesibilidad",
+    "switchWithIcon": {
+      "light": "Cambiar al tema claro",
+      "dark": "Cambiar al tema oscuro"
+    },
+    "ativarVLibras": "Activar VLibras",
+    "trocarIdioma": "Cambiar idioma",
+    "desenvolvida": {
+      "ferramenta": "Herramienta",
+      "desenvolvida": "desarrollado por"
+    },
+    "logo": "Logotipo de Biomob",
+    "barraLateral": "Cambiar el estado de la barra lateral del sitio web",
+    "nossasSolucoes": "Nuestras soluciones",
+    "nossasSolucoesLabel": "Ver las soluciones",
+    "acessibilidadeArq": "Accesibilidad arquitectónica",
+    "acessibilidadeArqLabel": "Vaya a la pantalla de Accesibilidad arquitectónica",
+    "acessibilidadeDig": "Accesibilidad digital",
+    "acessibilidadeDigLabel": "Vaya a la pantalla de Accesibilidad Digital",
+    "noticias": "Noticias",
+    "noticiasLabel": "Ir a la pantalla de Noticias",
+    "institudo": "Configuración",
+    "institudoLabel": "Ir a la pantalla de configuración",
+    "empregabilidade": "Empleo",
+    "empregabilidadeLabel": "Ir a la pantalla de Empleo",
+    "papoDiverso": "CONVERSACIÓN DIFERENTE",
+    "papoDiversoLabel": "Ir al sitio web de Verserend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Idioma de trabajo",
+        "ariaLabel": "Seleccionar idioma de trabajo"
+      },
+      "audiodescricao": {
+        "text": "Audiodescripción",
+        "ariaLabel": "Activar audiodescripción"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Encuentra tu idioma...",
+    "language": "Portugueses (BR)",
+    "Portuguese": "Portugueses (BR)",
+    "ChineseTraditional": "chino tradicional",
+    "ChineseSimplified": "Chino simplificado",
+    "English": "Inglesa",
+    "French": "frances",
+    "German": "Alemán",
+    "Italian": "italiano",
+    "Bengali": "bengalí",
+    "Hindi": "hindi",
+    "Russian": "ruso",
+    "Japanese": "de japon",
+    "Korean": "coreano",
+    "Vietnamese": "vietnamita",
+    "Telugu": "telugu",
+    "Cantonese": "cantonés",
+    "Marathi": "marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Turcas",
+    "Urdu": "urdu",
+    "Gujarati": "gujarati",
+    "Polish": "Quinielas",
+    "Ukrainian": "ucranio",
+    "Malay": "malayo",
+    "Kannada": "canarés",
+    "Oriya": "Odia",
+    "Punjabi": "punjabi",
+    "Romanian": "rumano",
+    "Azerbaijani": "azerbaiyano",
+    "Farsi": "persa",
+    "Burmese": "birmano",
+    "Thai": "Tailandesas",
+    "Dutch": "Holandés",
+    "Yoruba": "yoruba",
+    "Sindhi": "sindhi"
+  }
+}

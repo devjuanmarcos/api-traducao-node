@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "ଅଡିଓ ପ୍ଲେୟାର |",
+    "acessibilidade": "ଅଭିଗମ୍ୟତା",
+    "switchWithIcon": {
+      "light": "ହାଲୁକା ଥିମ୍ କୁ ସୁଇଚ୍ କରନ୍ତୁ |",
+      "dark": "ଗା dark ଥିମ୍ କୁ ସୁଇଚ୍ କରନ୍ତୁ |"
+    },
+    "ativarVLibras": "VLibras କୁ ସକ୍ରିୟ କରନ୍ତୁ |",
+    "trocarIdioma": "ଭାଷା ପରିବର୍ତ୍ତନ କରନ୍ତୁ |",
+    "desenvolvida": {
+      "ferramenta": "ସାଧନ",
+      "desenvolvida": "ଦ୍ୱାରା ବିକଶିତ |"
+    },
+    "logo": "ବାୟୋମୋବ୍ ଲୋଗୋ |",
+    "barraLateral": "ୱେବସାଇଟ୍ ସାଇଡ୍ ବାର୍ ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରନ୍ତୁ |",
+    "nossasSolucoes": "ଆମର ସମାଧାନ |",
+    "nossasSolucoesLabel": "ସମାଧାନଗୁଡିକ ଦେଖନ୍ତୁ |",
+    "acessibilidadeArq": "ସ୍ଥାପତ୍ୟ ସୁବିଧା",
+    "acessibilidadeArqLabel": "ସ୍ଥାପତ୍ୟ ଅଭିଗମ୍ୟତା ପରଦାକୁ ଯାଆନ୍ତୁ |",
+    "acessibilidadeDig": "ଡିଜିଟାଲ୍ ଆକ୍ସେସିବିଲିଟି |",
+    "acessibilidadeDigLabel": "ଡିଜିଟାଲ୍ ଆକ୍ସେସିବିଲିଟି ସ୍କ୍ରିନ୍ କୁ ଯାଆନ୍ତୁ |",
+    "noticias": "ସମ୍ବାଦ",
+    "noticiasLabel": "ନ୍ୟୁଜ୍ ସ୍କ୍ରିନ୍ କୁ ଯାଆନ୍ତୁ |",
+    "institudo": "ସେଟିଂ",
+    "institudoLabel": "ସେଟିଂ ସ୍କ୍ରିନକୁ ଯାଆନ୍ତୁ |",
+    "empregabilidade": "ରୋଜଗାର",
+    "empregabilidadeLabel": "ରୋଜଗାର ପରଦାକୁ ଯାଆନ୍ତୁ |",
+    "papoDiverso": "ବିଭିନ୍ନ ବାର୍ତ୍ତାଳାପ |",
+    "papoDiversoLabel": "ଭର୍ସେରେଣ୍ଡ ଗେସପ୍ରେକ୍ ୱେବସାଇଟ୍ କୁ ଯାଆନ୍ତୁ |"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "କାର୍ଯ୍ୟର ଭାଷା |",
+        "ariaLabel": "କାର୍ଯ୍ୟର ଭାଷା ଚୟନ କରନ୍ତୁ |"
+      },
+      "audiodescricao": {
+        "text": "ଅଡିଓ ବର୍ଣ୍ଣନା",
+        "ariaLabel": "ଅଡିଓ ବର୍ଣ୍ଣନା ସକ୍ରିୟ କରନ୍ତୁ |"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "ତୁମର ଭାଷା ଖୋଜ ...",
+    "language": "ପୋର୍ଟେଜ୍ (BR)",
+    "Portuguese": "ପୋର୍ଟେଜ୍ (BR)",
+    "ChineseTraditional": "ପାରମ୍ପାରିକ ଚାଇନିଜ୍ |",
+    "ChineseSimplified": "ସରଳୀକୃତ ଚାଇନିଜ୍ |",
+    "English": "ଏଙ୍ଗେଲସ୍ |",
+    "French": "ଫ୍ରାନ୍ସ",
+    "German": "ଜର୍ମାନ୍",
+    "Italian": "ଇଟାଲୀୟ |",
+    "Bengali": "ବଙ୍ଗାଳୀ",
+    "Hindi": "ହିନ୍ଦୀ",
+    "Russian": "Russian ଷିୟ |",
+    "Japanese": "ଜାପାନର",
+    "Korean": "କୋରିଆନ୍",
+    "Vietnamese": "ଭିଏତନାମ",
+    "Telugu": "ତେଲୁଗୁ",
+    "Cantonese": "କାଣ୍ଟୋନେସ୍",
+    "Marathi": "ମରାଠୀ",
+    "Tamil": "ତାମିଲ୍ |",
+    "Turkish": "ତୁର୍କୀ",
+    "Urdu": "ଉର୍ଦ୍ଦୁ",
+    "Gujarati": "ଗୁଜରାଟୀ",
+    "Polish": "ପୁଷ୍କରିଣୀ",
+    "Ukrainian": "ୟୁକ୍ରେନ୍",
+    "Malay": "ମାଲାୟା |",
+    "Kannada": "କନ୍ନଡ |",
+    "Oriya": "ଓଡିଆ",
+    "Punjabi": "ପଞ୍ଜାବୀ |",
+    "Romanian": "ରୋମାନିଆନ୍",
+    "Azerbaijani": "ଆଜେରବାଇଜାନ",
+    "Farsi": "ପାର୍ସୀ |",
+    "Burmese": "ବର୍ମା",
+    "Thai": "ଥାଇସ୍ |",
+    "Dutch": "ଡଚ୍",
+    "Yoruba": "ଓଡ଼ିଆ",
+    "Sindhi": "ସିନ୍ଧି |"
+  }
+}

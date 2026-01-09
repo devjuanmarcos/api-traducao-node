@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Odtwarzacz audio",
+    "acessibilidade": "Dostępność",
+    "switchWithIcon": {
+      "light": "Przełącz na jasny motyw",
+      "dark": "Przełącz na ciemny motyw"
+    },
+    "ativarVLibras": "Aktywuj VLibras",
+    "trocarIdioma": "Zmień język",
+    "desenvolvida": {
+      "ferramenta": "Narzędzie",
+      "desenvolvida": "opracowany przez"
+    },
+    "logo": "Logo Biomoba",
+    "barraLateral": "Zmień status paska bocznego witryny",
+    "nossasSolucoes": "Nasze rozwiązania",
+    "nossasSolucoesLabel": "Zobacz rozwiązania",
+    "acessibilidadeArq": "Dostępność architektoniczna",
+    "acessibilidadeArqLabel": "Przejdź do ekranu Dostępność architektoniczna",
+    "acessibilidadeDig": "Dostępność cyfrowa",
+    "acessibilidadeDigLabel": "Przejdź do ekranu Dostępność cyfrowa",
+    "noticias": "Aktualności",
+    "noticiasLabel": "Przejdź do ekranu Wiadomości",
+    "institudo": "Ustawienie",
+    "institudoLabel": "Przejdź do ekranu Ustawienia",
+    "empregabilidade": "Zatrudnienie",
+    "empregabilidadeLabel": "Przejdź do ekranu Zatrudnienie",
+    "papoDiverso": "INNA ROZMOWA",
+    "papoDiversoLabel": "Przejdź do strony internetowej Verserend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Język pracy",
+        "ariaLabel": "Wybierz język pracy"
+      },
+      "audiodescricao": {
+        "text": "Opis dźwiękowy",
+        "ariaLabel": "Aktywuj audiodeskrypcję"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Znajdź swój język...",
+    "language": "Portugalczycy (BR)",
+    "Portuguese": "Portugalczycy (BR)",
+    "ChineseTraditional": "Tradycyjny chiński",
+    "ChineseSimplified": "Uproszczony chiński",
+    "English": "Engelsa",
+    "French": "Frans",
+    "German": "niemiecki",
+    "Italian": "włoski",
+    "Bengali": "bengalski",
+    "Hindi": "hinduski",
+    "Russian": "rosyjski",
+    "Japanese": "Japonii",
+    "Korean": "koreański",
+    "Vietnamese": "wietnamski",
+    "Telugu": "telugu",
+    "Cantonese": "kantoński",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Turcy",
+    "Urdu": "urdu",
+    "Gujarati": "gudżarati",
+    "Polish": "Totalizator piłkarski",
+    "Ukrainian": "ukraiński",
+    "Malay": "malajski",
+    "Kannada": "Kannada",
+    "Oriya": "Odia",
+    "Punjabi": "Pendżabski",
+    "Romanian": "rumuński",
+    "Azerbaijani": "azerbejdżański",
+    "Farsi": "perski",
+    "Burmese": "Birmańczyk",
+    "Thai": "Tajowie",
+    "Dutch": "Holenderski",
+    "Yoruba": "Joruba",
+    "Sindhi": "Sindhi"
+  }
+}

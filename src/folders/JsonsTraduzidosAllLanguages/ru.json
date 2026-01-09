@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Аудиоплеер",
+    "acessibilidade": "Доступность",
+    "switchWithIcon": {
+      "light": "Переключиться на светлую тему",
+      "dark": "Переключиться на темную тему"
+    },
+    "ativarVLibras": "Активировать VLibras",
+    "trocarIdioma": "Переключить язык",
+    "desenvolvida": {
+      "ferramenta": "Инструмент",
+      "desenvolvida": "разработанный"
+    },
+    "logo": "Логотип биомоба",
+    "barraLateral": "Изменить статус боковой панели сайта",
+    "nossasSolucoes": "Наши решения",
+    "nossasSolucoesLabel": "Посмотреть решения",
+    "acessibilidadeArq": "Архитектурная доступность",
+    "acessibilidadeArqLabel": "Перейдите на экран «Архитектурная доступность».",
+    "acessibilidadeDig": "Цифровая доступность",
+    "acessibilidadeDigLabel": "Перейдите на экран цифровой доступности.",
+    "noticias": "Новости",
+    "noticiasLabel": "Перейти на экран новостей",
+    "institudo": "Параметр",
+    "institudoLabel": "Перейдите на экран настроек",
+    "empregabilidade": "Работа",
+    "empregabilidadeLabel": "Перейти на экран трудоустройства",
+    "papoDiverso": "РАЗНЫЙ РАЗГОВОР",
+    "papoDiversoLabel": "Перейти на сайт Verserend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Язык работы",
+        "ariaLabel": "Выберите язык работы"
+      },
+      "audiodescricao": {
+        "text": "Аудио описание",
+        "ariaLabel": "Активировать аудиоописание"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Найдите свой язык...",
+    "language": "Португальцы (BR)",
+    "Portuguese": "Португальцы (BR)",
+    "ChineseTraditional": "Традиционный китайский",
+    "ChineseSimplified": "Упрощенный китайский",
+    "English": "Энгельс",
+    "French": "Франс",
+    "German": "немецкий",
+    "Italian": "итальянский",
+    "Bengali": "Бенгальский",
+    "Hindi": "хинди",
+    "Russian": "Русский",
+    "Japanese": "Японии",
+    "Korean": "корейский",
+    "Vietnamese": "вьетнамский",
+    "Telugu": "телугу",
+    "Cantonese": "Кантонский диалект",
+    "Marathi": "Маратхи",
+    "Tamil": "тамильский",
+    "Turkish": "турки",
+    "Urdu": "Урду",
+    "Gujarati": "Гуджарати",
+    "Polish": "Бассейны",
+    "Ukrainian": "Украинский",
+    "Malay": "малайский",
+    "Kannada": "Каннада",
+    "Oriya": "Одия",
+    "Punjabi": "панджаби",
+    "Romanian": "румынский",
+    "Azerbaijani": "азербайджанский",
+    "Farsi": "персидский",
+    "Burmese": "бирманский",
+    "Thai": "Тайцы",
+    "Dutch": "Голландский",
+    "Yoruba": "Йоруба",
+    "Sindhi": "Синдхи"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "ஆடியோ பிளேயர்",
+    "acessibilidade": "அணுகல்",
+    "switchWithIcon": {
+      "light": "ஒளி தீமுக்கு மாறவும்",
+      "dark": "இருண்ட தீமுக்கு மாறவும்"
+    },
+    "ativarVLibras": "VLibras ஐ இயக்கவும்",
+    "trocarIdioma": "மொழியை மாற்றவும்",
+    "desenvolvida": {
+      "ferramenta": "கருவி",
+      "desenvolvida": "மூலம் உருவாக்கப்பட்டது"
+    },
+    "logo": "Biomob லோகோ",
+    "barraLateral": "இணையதள பக்கப்பட்டி நிலையை மாற்றவும்",
+    "nossasSolucoes": "எங்கள் தீர்வுகள்",
+    "nossasSolucoesLabel": "தீர்வுகளைப் பார்க்கவும்",
+    "acessibilidadeArq": "கட்டடக்கலை அணுகல்",
+    "acessibilidadeArqLabel": "கட்டடக்கலை அணுகல் திரைக்குச் செல்லவும்",
+    "acessibilidadeDig": "டிஜிட்டல் அணுகல்தன்மை",
+    "acessibilidadeDigLabel": "டிஜிட்டல் அணுகல் திரைக்குச் செல்லவும்",
+    "noticias": "செய்தி",
+    "noticiasLabel": "செய்தித் திரைக்குச் செல்லவும்",
+    "institudo": "அமைத்தல்",
+    "institudoLabel": "அமைப்புகள் திரைக்குச் செல்லவும்",
+    "empregabilidade": "வேலைவாய்ப்பு",
+    "empregabilidadeLabel": "வேலைவாய்ப்புத் திரைக்குச் செல்லவும்",
+    "papoDiverso": "வித்தியாசமான உரையாடல்",
+    "papoDiversoLabel": "Verserend Gesprek இணையதளத்திற்குச் செல்லவும்"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "வேலை மொழி",
+        "ariaLabel": "வேலை மொழியைத் தேர்ந்தெடுக்கவும்"
+      },
+      "audiodescricao": {
+        "text": "ஆடியோ விளக்கம்",
+        "ariaLabel": "ஆடியோ விளக்கத்தை செயல்படுத்தவும்"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "உங்கள் மொழியைக் கண்டறியவும்...",
+    "language": "போர்ச்சுகீயர்கள் (பிஆர்)",
+    "Portuguese": "போர்ச்சுகீயர்கள் (பிஆர்)",
+    "ChineseTraditional": "பாரம்பரிய சீன",
+    "ChineseSimplified": "எளிமைப்படுத்தப்பட்ட சீனம்",
+    "English": "எங்கெல்ஸ்",
+    "French": "பிரான்ஸ்",
+    "German": "ஜெர்மன்",
+    "Italian": "இத்தாலியன்",
+    "Bengali": "பெங்காலி",
+    "Hindi": "ஹிந்தி",
+    "Russian": "ரஷ்யன்",
+    "Japanese": "ஜப்பானின்",
+    "Korean": "கொரியன்",
+    "Vietnamese": "வியட்நாமியர்",
+    "Telugu": "தெலுங்கு",
+    "Cantonese": "கான்டோனீஸ்",
+    "Marathi": "மராத்தி",
+    "Tamil": "தமிழ்",
+    "Turkish": "துருக்கியர்கள்",
+    "Urdu": "உருது",
+    "Gujarati": "குஜராத்தி",
+    "Polish": "குளங்கள்",
+    "Ukrainian": "உக்ரைனியன்",
+    "Malay": "மலாய்",
+    "Kannada": "கன்னடம்",
+    "Oriya": "ஒடியா",
+    "Punjabi": "பஞ்சாபி",
+    "Romanian": "ரோமானியன்",
+    "Azerbaijani": "அஜர்பைஜானி",
+    "Farsi": "பாரசீக",
+    "Burmese": "பர்மியர்",
+    "Thai": "தாய்ஸ்",
+    "Dutch": "டச்சு",
+    "Yoruba": "யாருப்பா",
+    "Sindhi": "சிந்தி"
+  }
+}

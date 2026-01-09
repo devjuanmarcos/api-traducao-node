@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Trình phát âm thanh",
+    "acessibilidade": "Khả năng tiếp cận",
+    "switchWithIcon": {
+      "light": "Chuyển sang giao diện nhẹ nhàng",
+      "dark": "Chuyển sang chủ đề tối"
+    },
+    "ativarVLibras": "Kích hoạt VLibras",
+    "trocarIdioma": "Chuyển đổi ngôn ngữ",
+    "desenvolvida": {
+      "ferramenta": "Dụng cụ",
+      "desenvolvida": "được phát triển bởi"
+    },
+    "logo": "Logo sinh học",
+    "barraLateral": "Thay đổi trạng thái thanh bên của trang web",
+    "nossasSolucoes": "Giải pháp của chúng tôi",
+    "nossasSolucoesLabel": "Xem các giải pháp",
+    "acessibilidadeArq": "Khả năng tiếp cận kiến ​​trúc",
+    "acessibilidadeArqLabel": "Chuyển đến màn hình Hỗ trợ tiếp cận kiến ​​trúc",
+    "acessibilidadeDig": "Khả năng tiếp cận kỹ thuật số",
+    "acessibilidadeDigLabel": "Chuyển đến màn hình Hỗ trợ kỹ thuật số",
+    "noticias": "Tin tức",
+    "noticiasLabel": "Vào màn hình Tin tức",
+    "institudo": "Cài đặt",
+    "institudoLabel": "Đi tới màn hình Cài đặt",
+    "empregabilidade": "Thuê người làm",
+    "empregabilidadeLabel": "Chuyển đến màn hình Việc làm",
+    "papoDiverso": "ĐỐI THOẠI KHÁC NHAU",
+    "papoDiversoLabel": "Tới trang web Verserend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Ngôn ngữ làm việc",
+        "ariaLabel": "Chọn ngôn ngữ làm việc"
+      },
+      "audiodescricao": {
+        "text": "Mô tả âm thanh",
+        "ariaLabel": "Kích hoạt mô tả âm thanh"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Tìm ngôn ngữ của bạn...",
+    "language": "Bồ Đào Nha (BR)",
+    "Portuguese": "Bồ Đào Nha (BR)",
+    "ChineseTraditional": "Tiếng Trung phồn thể",
+    "ChineseSimplified": "Tiếng Trung giản thể",
+    "English": "Engels",
+    "French": "tiếng Pháp",
+    "German": "tiếng Đức",
+    "Italian": "người Ý",
+    "Bengali": "tiếng Bengali",
+    "Hindi": "Tiếng Hindi",
+    "Russian": "tiếng Nga",
+    "Japanese": "của Nhật Bản",
+    "Korean": "Tiếng Hàn",
+    "Vietnamese": "Tiếng Việt",
+    "Telugu": "tiếng Telugu",
+    "Cantonese": "tiếng Quảng Đông",
+    "Marathi": "Tiếng Marathi",
+    "Tamil": "Tiếng Tamil",
+    "Turkish": "người Thổ Nhĩ Kỳ",
+    "Urdu": "tiếng Urdu",
+    "Gujarati": "tiếng Gujarati",
+    "Polish": "Bể bơi",
+    "Ukrainian": "tiếng Ukraina",
+    "Malay": "Mã Lai",
+    "Kannada": "tiếng Kannada",
+    "Oriya": "Odia",
+    "Punjabi": "Tiếng Punjab",
+    "Romanian": "người Rumani",
+    "Azerbaijani": "Tiếng Azerbaijan",
+    "Farsi": "tiếng Ba Tư",
+    "Burmese": "Miến Điện",
+    "Thai": "người Thái",
+    "Dutch": "tiếng Hà Lan",
+    "Yoruba": "Tiếng Yoruba",
+    "Sindhi": "tiếng Sindhi"
+  }
+}

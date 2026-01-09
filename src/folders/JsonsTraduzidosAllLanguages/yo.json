@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Ẹrọ orin ohun",
+    "acessibilidade": "Wiwọle",
+    "switchWithIcon": {
+      "light": "Yipada si akori ina",
+      "dark": "Yipada si akori dudu"
+    },
+    "ativarVLibras": "Mu VLibras ṣiṣẹ",
+    "trocarIdioma": "Yipada ede",
+    "desenvolvida": {
+      "ferramenta": "Irinṣẹ",
+      "desenvolvida": "ni idagbasoke nipasẹ"
+    },
+    "logo": "Biomob Logo",
+    "barraLateral": "Yi ipo legbe aaye ayelujara pada",
+    "nossasSolucoes": "Awọn ojutu wa",
+    "nossasSolucoesLabel": "Wo awọn ojutu",
+    "acessibilidadeArq": "Wiwọle ayaworan",
+    "acessibilidadeArqLabel": "Lọ si iboju Wiwọle Architectural",
+    "acessibilidadeDig": "Wiwọle Digital",
+    "acessibilidadeDigLabel": "Lọ si iboju Wiwọle Digital",
+    "noticias": "Iroyin",
+    "noticiasLabel": "Lọ si iboju iroyin",
+    "institudo": "Eto",
+    "institudoLabel": "Lọ si iboju Eto",
+    "empregabilidade": "Igbanisise",
+    "empregabilidadeLabel": "Lọ si iboju Iṣẹ",
+    "papoDiverso": "ORISIRISI ORO",
+    "papoDiversoLabel": "Lọ si oju opo wẹẹbu Verserend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Ede ti iṣẹ",
+        "ariaLabel": "Yan ede iṣẹ"
+      },
+      "audiodescricao": {
+        "text": "Audio apejuwe",
+        "ariaLabel": "Mu apejuwe ohun ṣiṣẹ"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Wa ede rẹ...",
+    "language": "Portugal (BR)",
+    "Portuguese": "Portugal (BR)",
+    "ChineseTraditional": "Chinese ibile",
+    "ChineseSimplified": "Kannada ti o rọrun",
+    "English": "Engels",
+    "French": "Frans",
+    "German": "Jẹmánì",
+    "Italian": "Itali",
+    "Bengali": "Ede Bengali",
+    "Hindi": "Hindi",
+    "Russian": "Russian",
+    "Japanese": "ti Japan",
+    "Korean": "Korean",
+    "Vietnamese": "Vietnamese",
+    "Telugu": "Telugu",
+    "Cantonese": "Cantonese",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Tooki",
+    "Urdu": "Urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Awọn adagun omi",
+    "Ukrainian": "Ukrainian",
+    "Malay": "Malay",
+    "Kannada": "Kannada",
+    "Oriya": "Odia",
+    "Punjabi": "Punjabi",
+    "Romanian": "Romanian",
+    "Azerbaijani": "Azerbaijan",
+    "Farsi": "Persian",
+    "Burmese": "Burmese",
+    "Thai": "Thais",
+    "Dutch": "Dutch",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

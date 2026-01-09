@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "音頻播放器",
+    "acessibilidade": "冇障礙性",
+    "switchWithIcon": {
+      "light": "轉為照亮主題",
+      "dark": "轉為黑暗主題"
+    },
+    "ativarVLibras": "激活 VLibras",
+    "trocarIdioma": "切換語言",
+    "desenvolvida": {
+      "ferramenta": "工具",
+      "desenvolvida": "由"
+    },
+    "logo": "生物莫布洛哥",
+    "barraLateral": "更改網站側欄狀態",
+    "nossasSolucoes": "我哋嘅解決方案",
+    "nossasSolucoesLabel": "睇下解決方法",
+    "acessibilidadeArq": "建築冇障礙性",
+    "acessibilidadeArqLabel": "去建築冇障礙畫面",
+    "acessibilidadeDig": "數碼冇障礙性",
+    "acessibilidadeDigLabel": "去數碼冇障礙畫面",
+    "noticias": "新聞",
+    "noticiasLabel": "去新聞畫面",
+    "institudo": "設定",
+    "institudoLabel": "去「設定」畫面",
+    "empregabilidade": "就業",
+    "empregabilidadeLabel": "去就業畫面",
+    "papoDiverso": "分別凸起",
+    "papoDiversoLabel": "去佛羅倫斯 · 格斯普雷克網站"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "工作語言",
+        "ariaLabel": "選擇工作語言"
+      },
+      "audiodescricao": {
+        "text": "音頻描述",
+        "ariaLabel": "啟動音頻描述"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "搵你嘅語言 ...",
+    "language": "葡萄牙 ( BR )",
+    "Portuguese": "葡萄牙 ( BR )",
+    "ChineseTraditional": "繁體中文",
+    "ChineseSimplified": "簡體中文",
+    "English": "恩格斯",
+    "French": "弗蘭斯",
+    "German": "德國人",
+    "Italian": "意大利人",
+    "Bengali": "孟加拉",
+    "Hindi": "印地語",
+    "Russian": "俄文",
+    "Japanese": "日本",
+    "Korean": "韓文",
+    "Vietnamese": "越南人",
+    "Telugu": "泰盧固語",
+    "Cantonese": "廣州話",
+    "Marathi": "馬拉蒂",
+    "Tamil": "泰米爾文",
+    "Turkish": "土耳其人",
+    "Urdu": "烏爾都語",
+    "Gujarati": "古吉拉蒂",
+    "Polish": "泳池",
+    "Ukrainian": "烏克蘭人",
+    "Malay": "馬來人",
+    "Kannada": "坎納達",
+    "Oriya": "奧迪亞",
+    "Punjabi": "旁遮普",
+    "Romanian": "羅馬尼亞人",
+    "Azerbaijani": "阿塞拜疆",
+    "Farsi": "波斯人",
+    "Burmese": "緬甸",
+    "Thai": "泰國人",
+    "Dutch": "荷蘭人",
+    "Yoruba": "約魯巴",
+    "Sindhi": "辛德"
+  }
+}

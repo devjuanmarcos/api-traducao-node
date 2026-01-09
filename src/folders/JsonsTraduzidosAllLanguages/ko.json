@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "오디오 플레이어",
+    "acessibilidade": "접근성",
+    "switchWithIcon": {
+      "light": "밝은 테마로 전환",
+      "dark": "어두운 테마로 전환"
+    },
+    "ativarVLibras": "VLibra 활성화",
+    "trocarIdioma": "언어 전환",
+    "desenvolvida": {
+      "ferramenta": "도구",
+      "desenvolvida": "에 의해 개발됨"
+    },
+    "logo": "바이오몹 로고",
+    "barraLateral": "웹사이트 사이드바 상태 변경",
+    "nossasSolucoes": "우리의 솔루션",
+    "nossasSolucoesLabel": "솔루션 보기",
+    "acessibilidadeArq": "건축적 접근성",
+    "acessibilidadeArqLabel": "건축 접근성 화면으로 이동",
+    "acessibilidadeDig": "디지털 접근성",
+    "acessibilidadeDigLabel": "디지털 접근성 화면으로 이동",
+    "noticias": "소식",
+    "noticiasLabel": "뉴스 화면으로 이동",
+    "institudo": "환경",
+    "institudoLabel": "설정 화면으로 이동",
+    "empregabilidade": "고용",
+    "empregabilidadeLabel": "채용화면으로 이동",
+    "papoDiverso": "다양한 대화",
+    "papoDiversoLabel": "Verserend Gesprek 웹사이트로 이동"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "업무 언어",
+        "ariaLabel": "업무 언어 선택"
+      },
+      "audiodescricao": {
+        "text": "오디오 설명",
+        "ariaLabel": "오디오 설명 활성화"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "당신의 언어를 찾아보세요...",
+    "language": "포르투갈어(BR)",
+    "Portuguese": "포르투갈어(BR)",
+    "ChineseTraditional": "중국어 번체",
+    "ChineseSimplified": "중국어 간체",
+    "English": "엥겔스",
+    "French": "프란스",
+    "German": "독일 사람",
+    "Italian": "이탈리아 사람",
+    "Bengali": "벵골 사람",
+    "Hindi": "힌디 어",
+    "Russian": "러시아인",
+    "Japanese": "일본의",
+    "Korean": "한국인",
+    "Vietnamese": "베트남 사람",
+    "Telugu": "텔루구어",
+    "Cantonese": "광둥어",
+    "Marathi": "마라티어",
+    "Tamil": "타밀 사람",
+    "Turkish": "터키인",
+    "Urdu": "우르두어",
+    "Gujarati": "구자라트어",
+    "Polish": "풀",
+    "Ukrainian": "우크라이나 말",
+    "Malay": "말레이 사람",
+    "Kannada": "칸나다어",
+    "Oriya": "오디아",
+    "Punjabi": "펀자브어",
+    "Romanian": "루마니아 사람",
+    "Azerbaijani": "아제르바이잔",
+    "Farsi": "페르시아 인",
+    "Burmese": "버마 사람",
+    "Thai": "태국인",
+    "Dutch": "네덜란드 사람",
+    "Yoruba": "요루바어",
+    "Sindhi": "신디어"
+  }
+}

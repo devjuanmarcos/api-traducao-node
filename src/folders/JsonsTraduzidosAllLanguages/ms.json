@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Pemain audio",
+    "acessibilidade": "Kebolehcapaian",
+    "switchWithIcon": {
+      "light": "Tukar kepada tema cahaya",
+      "dark": "Tukar kepada tema gelap"
+    },
+    "ativarVLibras": "Aktifkan VLibras",
+    "trocarIdioma": "Tukar bahasa",
+    "desenvolvida": {
+      "ferramenta": "alat",
+      "desenvolvida": "dibangunkan oleh"
+    },
+    "logo": "Logo Biomob",
+    "barraLateral": "Tukar status bar sisi tapak web",
+    "nossasSolucoes": "Penyelesaian kami",
+    "nossasSolucoesLabel": "Lihat penyelesaian",
+    "acessibilidadeArq": "Kebolehcapaian Senibina",
+    "acessibilidadeArqLabel": "Pergi ke skrin Kebolehcapaian Senibina",
+    "acessibilidadeDig": "Kebolehcapaian Digital",
+    "acessibilidadeDigLabel": "Pergi ke skrin Kebolehcapaian Digital",
+    "noticias": "Berita",
+    "noticiasLabel": "Pergi ke skrin Berita",
+    "institudo": "Tetapan",
+    "institudoLabel": "Pergi ke skrin Tetapan",
+    "empregabilidade": "Pekerjaan",
+    "empregabilidadeLabel": "Pergi ke skrin Pekerjaan",
+    "papoDiverso": "PERBUALAN YANG BERBEZA",
+    "papoDiversoLabel": "Pergi ke laman web Verserend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Bahasa kerja",
+        "ariaLabel": "Pilih bahasa kerja"
+      },
+      "audiodescricao": {
+        "text": "Perihalan audio",
+        "ariaLabel": "Aktifkan perihalan audio"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Cari bahasa anda...",
+    "language": "Portugis (BR)",
+    "Portuguese": "Portugis (BR)",
+    "ChineseTraditional": "Cina tradisional",
+    "ChineseSimplified": "Cina ringkas",
+    "English": "Inggeris",
+    "French": "Frans",
+    "German": "Jerman",
+    "Italian": "Itali",
+    "Bengali": "Benggali",
+    "Hindi": "Hindi",
+    "Russian": "bahasa Rusia",
+    "Japanese": "Jepun",
+    "Korean": "Korea",
+    "Vietnamese": "bahasa Vietnam",
+    "Telugu": "Telugu",
+    "Cantonese": "Kantonis",
+    "Marathi": "Marathi",
+    "Tamil": "bahasa Tamil",
+    "Turkish": "orang Turki",
+    "Urdu": "bahasa Urdu",
+    "Gujarati": "Gujerat",
+    "Polish": "kolam",
+    "Ukrainian": "Ukraine",
+    "Malay": "Melayu",
+    "Kannada": "Kannada",
+    "Oriya": "Odia",
+    "Punjabi": "Punjabi",
+    "Romanian": "bahasa Romania",
+    "Azerbaijani": "Azerbaijan",
+    "Farsi": "Parsi",
+    "Burmese": "Burma",
+    "Thai": "orang Thai",
+    "Dutch": "Belanda",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

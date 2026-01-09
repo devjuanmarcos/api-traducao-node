@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Audio player",
+    "acessibilidade": "Accessibility",
+    "switchWithIcon": {
+      "light": "Switch to light theme",
+      "dark": "Switch to dark theme"
+    },
+    "ativarVLibras": "Activate VLibras",
+    "trocarIdioma": "Switch language",
+    "desenvolvida": {
+      "ferramenta": "Tool",
+      "desenvolvida": "developed by"
+    },
+    "logo": "Biomob Logo",
+    "barraLateral": "Change website sidebar status",
+    "nossasSolucoes": "Our solutions",
+    "nossasSolucoesLabel": "View the solutions",
+    "acessibilidadeArq": "Architectural Accessibility",
+    "acessibilidadeArqLabel": "Go to the Architectural Accessibility screen",
+    "acessibilidadeDig": "Digital Accessibility",
+    "acessibilidadeDigLabel": "Go to the Digital Accessibility screen",
+    "noticias": "News",
+    "noticiasLabel": "Go to the News screen",
+    "institudo": "Setting",
+    "institudoLabel": "Go to the Setting screen",
+    "empregabilidade": "Employment",
+    "empregabilidadeLabel": "Go to the Employment screen",
+    "papoDiverso": "DIFFERENT CONVERSATION",
+    "papoDiversoLabel": "Go to the Verserend Gesprek website"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Language of work",
+        "ariaLabel": "Select language of work"
+      },
+      "audiodescricao": {
+        "text": "Audio description",
+        "ariaLabel": "Activate audio description"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Find your language...",
+    "language": "Portugees (BR)",
+    "Portuguese": "Portugees (BR)",
+    "ChineseTraditional": "Traditional Chinese",
+    "ChineseSimplified": "Simplified Chinese",
+    "English": "Engels",
+    "French": "Frans",
+    "German": "German",
+    "Italian": "Italian",
+    "Bengali": "Bengali",
+    "Hindi": "Hindi",
+    "Russian": "Russian",
+    "Japanese": "of Japan",
+    "Korean": "Korean",
+    "Vietnamese": "Vietnamese",
+    "Telugu": "Telugu",
+    "Cantonese": "Cantonese",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Turks",
+    "Urdu": "Urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Pools",
+    "Ukrainian": "Ukrainian",
+    "Malay": "Malay",
+    "Kannada": "Kannada",
+    "Oriya": "Odia",
+    "Punjabi": "Punjabi",
+    "Romanian": "Romanian",
+    "Azerbaijani": "Azerbaijani",
+    "Farsi": "Persian",
+    "Burmese": "Burmese",
+    "Thai": "Thais",
+    "Dutch": "Dutch",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

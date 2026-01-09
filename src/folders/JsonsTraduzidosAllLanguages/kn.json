@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "ಆಡಿಯೋ ಪ್ಲೇಯರ್",
+    "acessibilidade": "ಪ್ರವೇಶಿಸುವಿಕೆ",
+    "switchWithIcon": {
+      "light": "ಬೆಳಕಿನ ಥೀಮ್‌ಗೆ ಬದಲಿಸಿ",
+      "dark": "ಡಾರ್ಕ್ ಥೀಮ್‌ಗೆ ಬದಲಿಸಿ"
+    },
+    "ativarVLibras": "VLibras ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ",
+    "trocarIdioma": "ಭಾಷೆ ಬದಲಿಸಿ",
+    "desenvolvida": {
+      "ferramenta": "ಉಪಕರಣ",
+      "desenvolvida": "ಮೂಲಕ ಅಭಿವೃದ್ಧಿಪಡಿಸಲಾಗಿದೆ"
+    },
+    "logo": "Biomob ಲೋಗೋ",
+    "barraLateral": "ವೆಬ್‌ಸೈಟ್ ಸೈಡ್‌ಬಾರ್ ಸ್ಥಿತಿಯನ್ನು ಬದಲಾಯಿಸಿ",
+    "nossasSolucoes": "ನಮ್ಮ ಪರಿಹಾರಗಳು",
+    "nossasSolucoesLabel": "ಪರಿಹಾರಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
+    "acessibilidadeArq": "ವಾಸ್ತುಶಿಲ್ಪದ ಪ್ರವೇಶಸಾಧ್ಯತೆ",
+    "acessibilidadeArqLabel": "ಆರ್ಕಿಟೆಕ್ಚರಲ್ ಆಕ್ಸೆಸಿಬಿಲಿಟಿ ಸ್ಕ್ರೀನ್‌ಗೆ ಹೋಗಿ",
+    "acessibilidadeDig": "ಡಿಜಿಟಲ್ ಪ್ರವೇಶಸಾಧ್ಯತೆ",
+    "acessibilidadeDigLabel": "ಡಿಜಿಟಲ್ ಪ್ರವೇಶಿಸುವಿಕೆ ಪರದೆಗೆ ಹೋಗಿ",
+    "noticias": "ಸುದ್ದಿ",
+    "noticiasLabel": "ಸುದ್ದಿ ಪರದೆಗೆ ಹೋಗಿ",
+    "institudo": "ಸೆಟ್ಟಿಂಗ್",
+    "institudoLabel": "ಸೆಟ್ಟಿಂಗ್ ಪರದೆಗೆ ಹೋಗಿ",
+    "empregabilidade": "ಉದ್ಯೋಗ",
+    "empregabilidadeLabel": "ಉದ್ಯೋಗ ಪರದೆಗೆ ಹೋಗಿ",
+    "papoDiverso": "ವಿಭಿನ್ನ ಸಂಭಾಷಣೆ",
+    "papoDiversoLabel": "Verserend Gesprek ವೆಬ್‌ಸೈಟ್‌ಗೆ ಹೋಗಿ"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "ಕೆಲಸದ ಭಾಷೆ",
+        "ariaLabel": "ಕೆಲಸದ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+      },
+      "audiodescricao": {
+        "text": "ಆಡಿಯೋ ವಿವರಣೆ",
+        "ariaLabel": "ಆಡಿಯೋ ವಿವರಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಹುಡುಕಿ...",
+    "language": "ಪೋರ್ಚುಗೀಸ್ (BR)",
+    "Portuguese": "ಪೋರ್ಚುಗೀಸ್ (BR)",
+    "ChineseTraditional": "ಸಾಂಪ್ರದಾಯಿಕ ಚೈನೀಸ್",
+    "ChineseSimplified": "ಸರಳೀಕೃತ ಚೈನೀಸ್",
+    "English": "ಎಂಗೆಲ್ಸ್",
+    "French": "ಫ್ರಾನ್ಸ್",
+    "German": "ಜರ್ಮನ್",
+    "Italian": "ಇಟಾಲಿಯನ್",
+    "Bengali": "ಬೆಂಗಾಲಿ",
+    "Hindi": "ಹಿಂದಿ",
+    "Russian": "ರಷ್ಯನ್",
+    "Japanese": "ಜಪಾನ್ ನ",
+    "Korean": "ಕೊರಿಯನ್",
+    "Vietnamese": "ವಿಯೆಟ್ನಾಮೀಸ್",
+    "Telugu": "ತೆಲುಗು",
+    "Cantonese": "ಕ್ಯಾಂಟೋನೀಸ್",
+    "Marathi": "ಮರಾಠಿ",
+    "Tamil": "ತಮಿಳು",
+    "Turkish": "ಟರ್ಕ್ಸ್",
+    "Urdu": "ಉರ್ದು",
+    "Gujarati": "ಗುಜರಾತಿ",
+    "Polish": "ಪೂಲ್ಗಳು",
+    "Ukrainian": "ಉಕ್ರೇನಿಯನ್",
+    "Malay": "ಮಲಯ",
+    "Kannada": "ಕನ್ನಡ",
+    "Oriya": "ಒಡಿಯಾ",
+    "Punjabi": "ಪಂಜಾಬಿ",
+    "Romanian": "ರೊಮೇನಿಯನ್",
+    "Azerbaijani": "ಅಜೆರ್ಬೈಜಾನಿ",
+    "Farsi": "ಪರ್ಷಿಯನ್",
+    "Burmese": "ಬರ್ಮೀಸ್",
+    "Thai": "ಥೈಸ್",
+    "Dutch": "ಡಚ್",
+    "Yoruba": "ಯೊರುಬಾ",
+    "Sindhi": "ಸಿಂಧಿ"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "آڈیو پلیئر",
+    "acessibilidade": "رسائ",
+    "switchWithIcon": {
+      "light": "لائٹ تھیم پر سوئچ کریں",
+      "dark": "ڈارک تھیم پر سوئچ کریں"
+    },
+    "ativarVLibras": "Vlibras کو چالو کریں",
+    "trocarIdioma": "زبان سوئچ کریں",
+    "desenvolvida": {
+      "ferramenta": "ٹول",
+      "desenvolvida": "کے ذریعہ تیار کیا"
+    },
+    "logo": "بائوموب لوگو",
+    "barraLateral": "ویب سائٹ سائڈبار کی حیثیت تبدیل کریں",
+    "nossasSolucoes": "ہمارے حل",
+    "nossasSolucoesLabel": "حل دیکھیں",
+    "acessibilidadeArq": "آرکیٹیکچرل رسائ",
+    "acessibilidadeArqLabel": "آرکیٹیکچرل قابل رسائ اسکرین پر جائیں",
+    "acessibilidadeDig": "ڈیجیٹل رسائ",
+    "acessibilidadeDigLabel": "ڈیجیٹل رسائ اسکرین پر جائیں",
+    "noticias": "خبریں",
+    "noticiasLabel": "نیوز اسکرین پر جائیں",
+    "institudo": "ترتیب",
+    "institudoLabel": "ترتیب اسکرین پر جائیں",
+    "empregabilidade": "ملازمت",
+    "empregabilidadeLabel": "ملازمت کی اسکرین پر جائیں",
+    "papoDiverso": "مختلف گفتگو",
+    "papoDiversoLabel": "ورجینڈ گیسپریک ویب سائٹ پر جائیں"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "کام کی زبان",
+        "ariaLabel": "کام کی زبان منتخب کریں"
+      },
+      "audiodescricao": {
+        "text": "آڈیو تفصیل",
+        "ariaLabel": "آڈیو تفصیل کو چالو کریں"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "اپنی زبان تلاش کریں ...",
+    "language": "pertuges (br)",
+    "Portuguese": "pertuges (br)",
+    "ChineseTraditional": "روایتی چینی",
+    "ChineseSimplified": "آسان چینی",
+    "English": "اینگلز",
+    "French": "فرانس",
+    "German": "جرمن",
+    "Italian": "اطالوی",
+    "Bengali": "بنگالی",
+    "Hindi": "ہندی",
+    "Russian": "روسی",
+    "Japanese": "جاپان کے",
+    "Korean": "کورین",
+    "Vietnamese": "ویتنامی",
+    "Telugu": "تلگو",
+    "Cantonese": "کینٹونیز",
+    "Marathi": "مراٹھی",
+    "Tamil": "تمل",
+    "Turkish": "ترک",
+    "Urdu": "اردو",
+    "Gujarati": "گجراتی",
+    "Polish": "تالاب",
+    "Ukrainian": "یوکرین",
+    "Malay": "مالائی",
+    "Kannada": "کناڈا",
+    "Oriya": "اوڈیا",
+    "Punjabi": "پنجابی",
+    "Romanian": "رومانیہ",
+    "Azerbaijani": "آذربائیجان",
+    "Farsi": "فارسی",
+    "Burmese": "برمی",
+    "Thai": "تھائی",
+    "Dutch": "ڈچ",
+    "Yoruba": "یوروبا",
+    "Sindhi": "سندھی"
+  }
+}

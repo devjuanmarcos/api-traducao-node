@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "ऑडिओ प्लेयर",
+    "acessibilidade": "प्रवेशयोग्यता",
+    "switchWithIcon": {
+      "light": "हलक्या थीमवर स्विच करा",
+      "dark": "गडद थीमवर स्विच करा"
+    },
+    "ativarVLibras": "VLibras सक्रिय करा",
+    "trocarIdioma": "भाषा बदला",
+    "desenvolvida": {
+      "ferramenta": "साधन",
+      "desenvolvida": "द्वारे विकसित"
+    },
+    "logo": "बायोमॉब लोगो",
+    "barraLateral": "वेबसाइट साइडबार स्थिती बदला",
+    "nossasSolucoes": "आमचे उपाय",
+    "nossasSolucoesLabel": "उपाय पहा",
+    "acessibilidadeArq": "आर्किटेक्चरल प्रवेशयोग्यता",
+    "acessibilidadeArqLabel": "आर्किटेक्चरल ऍक्सेसिबिलिटी स्क्रीनवर जा",
+    "acessibilidadeDig": "डिजिटल प्रवेशयोग्यता",
+    "acessibilidadeDigLabel": "डिजिटल ऍक्सेसिबिलिटी स्क्रीनवर जा",
+    "noticias": "बातम्या",
+    "noticiasLabel": "बातम्या स्क्रीनवर जा",
+    "institudo": "सेटिंग",
+    "institudoLabel": "सेटिंग स्क्रीनवर जा",
+    "empregabilidade": "रोजगार",
+    "empregabilidadeLabel": "एम्प्लॉयमेंट स्क्रीनवर जा",
+    "papoDiverso": "भिन्न संभाषण",
+    "papoDiversoLabel": "Verserend Gesprek वेबसाइटवर जा"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "कामाची भाषा",
+        "ariaLabel": "कामाची भाषा निवडा"
+      },
+      "audiodescricao": {
+        "text": "ऑडिओ वर्णन",
+        "ariaLabel": "ऑडिओ वर्णन सक्रिय करा"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "तुमची भाषा शोधा...",
+    "language": "पोर्तुगीज (BR)",
+    "Portuguese": "पोर्तुगीज (BR)",
+    "ChineseTraditional": "पारंपारिक चीनी",
+    "ChineseSimplified": "सरलीकृत चीनी",
+    "English": "एंगेल्स",
+    "French": "फ्रान्स",
+    "German": "जर्मन",
+    "Italian": "इटालियन",
+    "Bengali": "बंगाली",
+    "Hindi": "हिंदी",
+    "Russian": "रशियन",
+    "Japanese": "जपानचे",
+    "Korean": "कोरियन",
+    "Vietnamese": "व्हिएतनामी",
+    "Telugu": "तेलुगु",
+    "Cantonese": "कँटोनीज",
+    "Marathi": "मराठी",
+    "Tamil": "तमिळ",
+    "Turkish": "तुर्क",
+    "Urdu": "उर्दू",
+    "Gujarati": "गुजराती",
+    "Polish": "पूल",
+    "Ukrainian": "युक्रेनियन",
+    "Malay": "मलय",
+    "Kannada": "कन्नड",
+    "Oriya": "ओडिया",
+    "Punjabi": "पंजाबी",
+    "Romanian": "रोमानियन",
+    "Azerbaijani": "अझरबैजानी",
+    "Farsi": "पर्शियन",
+    "Burmese": "बर्मी",
+    "Thai": "थाईस",
+    "Dutch": "डच",
+    "Yoruba": "योरुबा",
+    "Sindhi": "सिंधी"
+  }
+}

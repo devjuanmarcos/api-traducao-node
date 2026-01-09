@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "অডিও প্লেয়ার",
+    "acessibilidade": "অ্যাক্সেসযোগ্যতা",
+    "switchWithIcon": {
+      "light": "হালকা থিমে স্যুইচ করুন",
+      "dark": "অন্ধকার থিমে স্যুইচ করুন"
+    },
+    "ativarVLibras": "VLibras সক্রিয় করুন",
+    "trocarIdioma": "ভাষা পরিবর্তন করুন",
+    "desenvolvida": {
+      "ferramenta": "টুল",
+      "desenvolvida": "দ্বারা উন্নত"
+    },
+    "logo": "বায়োমব লোগো",
+    "barraLateral": "ওয়েবসাইট সাইডবার স্থিতি পরিবর্তন করুন",
+    "nossasSolucoes": "আমাদের সমাধান",
+    "nossasSolucoesLabel": "সমাধান দেখুন",
+    "acessibilidadeArq": "স্থাপত্য অ্যাক্সেসযোগ্যতা",
+    "acessibilidadeArqLabel": "আর্কিটেকচারাল অ্যাক্সেসিবিলিটি স্ক্রিনে যান",
+    "acessibilidadeDig": "ডিজিটাল অ্যাক্সেসিবিলিটি",
+    "acessibilidadeDigLabel": "ডিজিটাল অ্যাক্সেসিবিলিটি স্ক্রিনে যান",
+    "noticias": "খবর",
+    "noticiasLabel": "নিউজ স্ক্রিনে যান",
+    "institudo": "সেটিং",
+    "institudoLabel": "সেটিংস স্ক্রিনে যান",
+    "empregabilidade": "কর্মসংস্থান",
+    "empregabilidadeLabel": "কর্মসংস্থান স্ক্রিনে যান",
+    "papoDiverso": "ভিন্ন কথোপকথন",
+    "papoDiversoLabel": "Verserend Gesprek ওয়েবসাইটে যান"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "কাজের ভাষা",
+        "ariaLabel": "কাজের ভাষা নির্বাচন করুন"
+      },
+      "audiodescricao": {
+        "text": "অডিও বর্ণনা",
+        "ariaLabel": "অডিও বর্ণনা সক্রিয় করুন"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "আপনার ভাষা খুঁজুন...",
+    "language": "পর্তুগিজ (BR)",
+    "Portuguese": "পর্তুগিজ (BR)",
+    "ChineseTraditional": "ঐতিহ্যবাহী চীনা",
+    "ChineseSimplified": "সরলীকৃত চীনা",
+    "English": "এঙ্গেলস",
+    "French": "ফ্রান্স",
+    "German": "জার্মান",
+    "Italian": "ইতালীয়",
+    "Bengali": "বাংলা",
+    "Hindi": "হিন্দি",
+    "Russian": "রাশিয়ান",
+    "Japanese": "জাপানের",
+    "Korean": "কোরিয়ান",
+    "Vietnamese": "ভিয়েতনামী",
+    "Telugu": "তেলেগু",
+    "Cantonese": "ক্যান্টোনিজ",
+    "Marathi": "মারাঠি",
+    "Tamil": "তামিল",
+    "Turkish": "তুর্কি",
+    "Urdu": "উর্দু",
+    "Gujarati": "গুজরাটি",
+    "Polish": "পুল",
+    "Ukrainian": "ইউক্রেনীয়",
+    "Malay": "মলয়",
+    "Kannada": "কন্নড়",
+    "Oriya": "ওডিয়া",
+    "Punjabi": "পাঞ্জাবি",
+    "Romanian": "রোমানিয়ান",
+    "Azerbaijani": "আজারবাইজানি",
+    "Farsi": "ফারসি",
+    "Burmese": "বার্মিজ",
+    "Thai": "থাইস",
+    "Dutch": "ডাচ",
+    "Yoruba": "ইওরুবা",
+    "Sindhi": "সিন্ধি"
+  }
+}

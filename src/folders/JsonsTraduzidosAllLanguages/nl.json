@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Audiospeler",
+    "acessibilidade": "Toegankelijkheid",
+    "switchWithIcon": {
+      "light": "Omschakelen naar licht thema",
+      "dark": "Omschakelen naar donker thema"
+    },
+    "ativarVLibras": "VLibras activeren",
+    "trocarIdioma": "Taal wisselen",
+    "desenvolvida": {
+      "ferramenta": "Hulpmiddel",
+      "desenvolvida": "ontwikkeld door"
+    },
+    "logo": "Biomob-logo",
+    "barraLateral": "Website zijbalk status wijzigen",
+    "nossasSolucoes": "Onze oplossingen",
+    "nossasSolucoesLabel": "Bekijk de oplossingen",
+    "acessibilidadeArq": "Architectonische Toegankelijkheid",
+    "acessibilidadeArqLabel": "Ga naar het scherm Architectonische Toegankelijkheid",
+    "acessibilidadeDig": "Digitale Toegankelijkheid",
+    "acessibilidadeDigLabel": "Ga naar het scherm Digitale Toegankelijkheid",
+    "noticias": "Nieuws",
+    "noticiasLabel": "Ga naar het scherm Nieuws",
+    "institudo": "Instelling",
+    "institudoLabel": "Ga naar het scherm Instelling",
+    "empregabilidade": "Werkgelegenheid",
+    "empregabilidadeLabel": "Ga naar het scherm Werkgelegenheid",
+    "papoDiverso": "VERSCHILLEND GESPREK",
+    "papoDiversoLabel": "Ga naar de website van Verschillend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Taal van het werk",
+        "ariaLabel": "Selecteer taal van het werk"
+      },
+      "audiodescricao": {
+        "text": "Audiobeschrijving",
+        "ariaLabel": "Audiodescriptie activeren"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Zoek uw taal...",
+    "language": "Portugees (BR)",
+    "Portuguese": "Portugees (BR)",
+    "ChineseTraditional": "Traditioneel Chinees",
+    "ChineseSimplified": "Vereenvoudigd Chinees",
+    "English": "Engels",
+    "French": "Frans",
+    "German": "Duits",
+    "Italian": "Italiaans",
+    "Bengali": "Bengaals",
+    "Hindi": "Hindi",
+    "Russian": "Russisch",
+    "Japanese": "van Japan",
+    "Korean": "Koreaans",
+    "Vietnamese": "Vietnamees",
+    "Telugu": "Telugu",
+    "Cantonese": "Kantonees",
+    "Marathi": "Marathi",
+    "Tamil": "Tamil",
+    "Turkish": "Turken",
+    "Urdu": "Urdu",
+    "Gujarati": "Gujarati",
+    "Polish": "Zwembaden",
+    "Ukrainian": "Oekraïens",
+    "Malay": "Maleis",
+    "Kannada": "Kanada",
+    "Oriya": "Odia",
+    "Punjabi": "Punjabi",
+    "Romanian": "Roemeens",
+    "Azerbaijani": "Azerbeidzjaans",
+    "Farsi": "Perzisch",
+    "Burmese": "Birmees",
+    "Thai": "Thais",
+    "Dutch": "Nederlands",
+    "Yoruba": "Joruba",
+    "Sindhi": "Sindhi"
+  }
+}

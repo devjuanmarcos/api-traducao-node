@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Аудіоплеєр",
+    "acessibilidade": "Доступність",
+    "switchWithIcon": {
+      "light": "Переключитися на світлу тему",
+      "dark": "Переключитися на темну тему"
+    },
+    "ativarVLibras": "Активуйте VLibras",
+    "trocarIdioma": "Змінити мову",
+    "desenvolvida": {
+      "ferramenta": "Інструмент",
+      "desenvolvida": "розроблений"
+    },
+    "logo": "Логотип Biomob",
+    "barraLateral": "Змінити статус бічної панелі веб-сайту",
+    "nossasSolucoes": "Наші рішення",
+    "nossasSolucoesLabel": "Переглянути рішення",
+    "acessibilidadeArq": "Архітектурна доступність",
+    "acessibilidadeArqLabel": "Перейдіть на екран Архітектурні можливості",
+    "acessibilidadeDig": "Цифрова доступність",
+    "acessibilidadeDigLabel": "Перейдіть на екран Digital Accessibility",
+    "noticias": "Новини",
+    "noticiasLabel": "Перейдіть на екран Новини",
+    "institudo": "Налаштування",
+    "institudoLabel": "Перейдіть на екран налаштувань",
+    "empregabilidade": "Працевлаштування",
+    "empregabilidadeLabel": "Перейдіть на екран Працевлаштування",
+    "papoDiverso": "ІНША РОЗМОВА",
+    "papoDiversoLabel": "Перейдіть на веб-сайт Verserend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "Мова роботи",
+        "ariaLabel": "Виберіть мову роботи"
+      },
+      "audiodescricao": {
+        "text": "Аудіо опис",
+        "ariaLabel": "Активувати звуковий опис"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Знайдіть свою мову...",
+    "language": "португальці (BR)",
+    "Portuguese": "португальці (BR)",
+    "ChineseTraditional": "Традиційна китайська",
+    "ChineseSimplified": "Спрощена китайська",
+    "English": "Енгельс",
+    "French": "Франс",
+    "German": "Німецький",
+    "Italian": "італійська",
+    "Bengali": "Бенгальська",
+    "Hindi": "Хінді",
+    "Russian": "російська",
+    "Japanese": "Японії",
+    "Korean": "корейська",
+    "Vietnamese": "в'єтнамська",
+    "Telugu": "Телугу",
+    "Cantonese": "кантонська",
+    "Marathi": "маратхі",
+    "Tamil": "тамільська",
+    "Turkish": "турки",
+    "Urdu": "урду",
+    "Gujarati": "Гуджараті",
+    "Polish": "Басейни",
+    "Ukrainian": "українська",
+    "Malay": "малайська",
+    "Kannada": "каннада",
+    "Oriya": "Одія",
+    "Punjabi": "Пенджабі",
+    "Romanian": "румунська",
+    "Azerbaijani": "Азербайджанська",
+    "Farsi": "перська",
+    "Burmese": "Бірманська",
+    "Thai": "тайці",
+    "Dutch": "голландська",
+    "Yoruba": "йоруба",
+    "Sindhi": "Сіндхі"
+  }
+}

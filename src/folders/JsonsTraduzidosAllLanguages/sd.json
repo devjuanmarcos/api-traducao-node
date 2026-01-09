@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "آڊيو پليئر",
+    "acessibilidade": "پهچ",
+    "switchWithIcon": {
+      "light": "روشني واري موضوع ڏانهن تبديل ڪريو",
+      "dark": "اونداهي موضوع ڏانهن تبديل ڪريو"
+    },
+    "ativarVLibras": "VLibras کي چالو ڪريو",
+    "trocarIdioma": "ٻولي تبديل ڪريو",
+    "desenvolvida": {
+      "ferramenta": "اوزار",
+      "desenvolvida": "پاران ترقي ڪئي وئي"
+    },
+    "logo": "بايوموب لوگو",
+    "barraLateral": "تبديل ڪريو ويب سائيٽ سائڊبار اسٽيٽس",
+    "nossasSolucoes": "اسان جا حل",
+    "nossasSolucoesLabel": "حل ڏسو",
+    "acessibilidadeArq": "آرڪيٽيڪچرل رسائي",
+    "acessibilidadeArqLabel": "تعميراتي رسائي جي اسڪرين ڏانھن وڃو",
+    "acessibilidadeDig": "ڊجيٽل رسائي",
+    "acessibilidadeDigLabel": "ڊجيٽل رسائي اسڪرين ڏانھن وڃو",
+    "noticias": "خبرون",
+    "noticiasLabel": "نيوز اسڪرين ڏانھن وڃو",
+    "institudo": "سيٽنگ",
+    "institudoLabel": "سيٽنگ اسڪرين ڏانھن وڃو",
+    "empregabilidade": "روزگار",
+    "empregabilidadeLabel": "ڏانھن وڃو روزگار اسڪرين",
+    "papoDiverso": "مختلف گفتگو",
+    "papoDiversoLabel": "ڏانھن وڃو Verserend Gesprek ويب سائيٽ"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "ڪم جي ٻولي",
+        "ariaLabel": "ڪم جي ٻولي چونڊيو"
+      },
+      "audiodescricao": {
+        "text": "آڊيو وضاحت",
+        "ariaLabel": "آڊيو وضاحت کي چالو ڪريو"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "پنهنجي ٻولي ڳوليو...",
+    "language": "پورچوگيز (BR)",
+    "Portuguese": "پورچوگيز (BR)",
+    "ChineseTraditional": "روايتي چيني",
+    "ChineseSimplified": "آسان چيني",
+    "English": "اينگلز",
+    "French": "فرانز",
+    "German": "جرمني",
+    "Italian": "اطالوي",
+    "Bengali": "بنگالي",
+    "Hindi": "هندي",
+    "Russian": "روسي",
+    "Japanese": "جاپان جو",
+    "Korean": "ڪورين",
+    "Vietnamese": "ويٽنامي",
+    "Telugu": "تيلوگو ٻولي",
+    "Cantonese": "ڪينٽونيز",
+    "Marathi": "مراٺي",
+    "Tamil": "تاملي",
+    "Turkish": "ترڪ",
+    "Urdu": "اردو",
+    "Gujarati": "گجراتي",
+    "Polish": "تلاءُ",
+    "Ukrainian": "يوڪريني",
+    "Malay": "مالائي",
+    "Kannada": "ڪنادي",
+    "Oriya": "اوڊيا",
+    "Punjabi": "پنجابي",
+    "Romanian": "رومانوي",
+    "Azerbaijani": "آذربائيجاني",
+    "Farsi": "فارسي",
+    "Burmese": "برمي",
+    "Thai": "ٿائيس",
+    "Dutch": "ڊچ ٻولي",
+    "Yoruba": "يوروبا",
+    "Sindhi": "سنڌي"
+  }
+}

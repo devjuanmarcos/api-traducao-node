@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "音频播放器",
+    "acessibilidade": "无障碍",
+    "switchWithIcon": {
+      "light": "切换到浅色主题",
+      "dark": "切换到深色主题"
+    },
+    "ativarVLibras": "激活VLibras",
+    "trocarIdioma": "切换语言",
+    "desenvolvida": {
+      "ferramenta": "工具",
+      "desenvolvida": "开发者"
+    },
+    "logo": "比奥莫布标志",
+    "barraLateral": "更改网站侧边栏状态",
+    "nossasSolucoes": "我们的解决方案",
+    "nossasSolucoesLabel": "查看解决方案",
+    "acessibilidadeArq": "建筑无障碍",
+    "acessibilidadeArqLabel": "转到建筑辅助功能屏幕",
+    "acessibilidadeDig": "数字无障碍",
+    "acessibilidadeDigLabel": "转到数字辅助功能屏幕",
+    "noticias": "消息",
+    "noticiasLabel": "转到新闻屏幕",
+    "institudo": "环境",
+    "institudoLabel": "进入设置屏幕",
+    "empregabilidade": "就业",
+    "empregabilidadeLabel": "转到就业屏幕",
+    "papoDiverso": "不同的对话",
+    "papoDiversoLabel": "访问 Verserend Gesprek 网站"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "工作语言",
+        "ariaLabel": "选择工作语言"
+      },
+      "audiodescricao": {
+        "text": "音频描述",
+        "ariaLabel": "激活音频描述"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "找到你的语言...",
+    "language": "葡萄牙人（巴西）",
+    "Portuguese": "葡萄牙人（巴西）",
+    "ChineseTraditional": "繁体中文",
+    "ChineseSimplified": "简体中文",
+    "English": "恩格斯",
+    "French": "弗兰斯",
+    "German": "德语",
+    "Italian": "意大利语",
+    "Bengali": "孟加拉",
+    "Hindi": "印地语",
+    "Russian": "俄语",
+    "Japanese": "日本的",
+    "Korean": "韩国人",
+    "Vietnamese": "越南语",
+    "Telugu": "泰卢固语",
+    "Cantonese": "广东话",
+    "Marathi": "马拉地语",
+    "Tamil": "泰米尔语",
+    "Turkish": "土耳其人",
+    "Urdu": "乌尔都语",
+    "Gujarati": "古吉拉特语",
+    "Polish": "泳池",
+    "Ukrainian": "乌克兰",
+    "Malay": "马来语",
+    "Kannada": "卡纳达语",
+    "Oriya": "奥迪亚",
+    "Punjabi": "旁遮普语",
+    "Romanian": "罗马尼亚语",
+    "Azerbaijani": "阿塞拜疆语",
+    "Farsi": "波斯语",
+    "Burmese": "缅甸语",
+    "Thai": "泰国人",
+    "Dutch": "荷兰语",
+    "Yoruba": "约鲁巴语",
+    "Sindhi": "信德语"
+  }
+}

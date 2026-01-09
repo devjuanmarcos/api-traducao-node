@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "เครื่องเล่นเสียง",
+    "acessibilidade": "การเข้าถึง",
+    "switchWithIcon": {
+      "light": "เปลี่ยนเป็นธีมสว่าง",
+      "dark": "เปลี่ยนเป็นธีมสีเข้ม"
+    },
+    "ativarVLibras": "เปิดใช้งาน VLibras",
+    "trocarIdioma": "สลับภาษา",
+    "desenvolvida": {
+      "ferramenta": "เครื่องมือ",
+      "desenvolvida": "พัฒนาโดย"
+    },
+    "logo": "โลโก้ไบโอม็อบ",
+    "barraLateral": "เปลี่ยนสถานะแถบด้านข้างของเว็บไซต์",
+    "nossasSolucoes": "โซลูชั่นของเรา",
+    "nossasSolucoesLabel": "ดูวิธีแก้ปัญหา",
+    "acessibilidadeArq": "การเข้าถึงทางสถาปัตยกรรม",
+    "acessibilidadeArqLabel": "ไปที่หน้าจอการเข้าถึงทางสถาปัตยกรรม",
+    "acessibilidadeDig": "การเข้าถึงแบบดิจิทัล",
+    "acessibilidadeDigLabel": "ไปที่หน้าจอการเข้าถึงแบบดิจิทัล",
+    "noticias": "ข่าว",
+    "noticiasLabel": "ไปที่หน้าจอข่าว",
+    "institudo": "การตั้งค่า",
+    "institudoLabel": "ไปที่หน้าจอการตั้งค่า",
+    "empregabilidade": "การจ้างงาน",
+    "empregabilidadeLabel": "ไปที่หน้าจอการจ้างงาน",
+    "papoDiverso": "บทสนทนาที่แตกต่าง",
+    "papoDiversoLabel": "ไปที่เว็บไซต์ Verserend Gesprek"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "ภาษาของการทำงาน",
+        "ariaLabel": "เลือกภาษาของงาน"
+      },
+      "audiodescricao": {
+        "text": "คำอธิบายเสียง",
+        "ariaLabel": "เปิดใช้งานคำอธิบายเสียง"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "ค้นหาภาษาของคุณ...",
+    "language": "โปรตุเกส (BR)",
+    "Portuguese": "โปรตุเกส (BR)",
+    "ChineseTraditional": "จีนดั้งเดิม",
+    "ChineseSimplified": "จีนตัวย่อ",
+    "English": "เองเกลส์",
+    "French": "ฟรานส์",
+    "German": "เยอรมัน",
+    "Italian": "ภาษาอิตาลี",
+    "Bengali": "เบงกาลี",
+    "Hindi": "ฮินดี",
+    "Russian": "ภาษารัสเซีย",
+    "Japanese": "ของญี่ปุ่น",
+    "Korean": "เกาหลี",
+    "Vietnamese": "ภาษาเวียดนาม",
+    "Telugu": "เตลูกู",
+    "Cantonese": "กวางตุ้ง",
+    "Marathi": "ภาษามราฐี",
+    "Tamil": "ทมิฬ",
+    "Turkish": "เติร์ก",
+    "Urdu": "ภาษาอูรดู",
+    "Gujarati": "คุชราต",
+    "Polish": "สระน้ำ",
+    "Ukrainian": "ภาษายูเครน",
+    "Malay": "มาเลย์",
+    "Kannada": "กันนาดา",
+    "Oriya": "โอเดีย",
+    "Punjabi": "ปัญจาบ",
+    "Romanian": "โรมาเนีย",
+    "Azerbaijani": "อาเซอร์ไบจัน",
+    "Farsi": "เปอร์เซีย",
+    "Burmese": "พม่า",
+    "Thai": "ชาวไทย",
+    "Dutch": "ภาษาดัตช์",
+    "Yoruba": "โยรูบา",
+    "Sindhi": "สินธี"
+  }
+}

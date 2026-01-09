@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "ऑडियो प्लेयर",
+    "acessibilidade": "सरल उपयोग",
+    "switchWithIcon": {
+      "light": "लाइट थीम पर स्विच करें",
+      "dark": "डार्क थीम पर स्विच करें"
+    },
+    "ativarVLibras": "VLibras सक्रिय करें",
+    "trocarIdioma": "भाषा बदलें",
+    "desenvolvida": {
+      "ferramenta": "औजार",
+      "desenvolvida": "द्वारा विकसित"
+    },
+    "logo": "बायोमोब लोगो",
+    "barraLateral": "वेबसाइट साइडबार स्थिति बदलें",
+    "nossasSolucoes": "हमारे समाधान",
+    "nossasSolucoesLabel": "समाधान देखें",
+    "acessibilidadeArq": "वास्तुशिल्प पहुंच",
+    "acessibilidadeArqLabel": "आर्किटेक्चरल एक्सेसिबिलिटी स्क्रीन पर जाएं",
+    "acessibilidadeDig": "डिजिटल पहुंच",
+    "acessibilidadeDigLabel": "डिजिटल एक्सेसिबिलिटी स्क्रीन पर जाएं",
+    "noticias": "समाचार",
+    "noticiasLabel": "समाचार स्क्रीन पर जाएँ",
+    "institudo": "सेटिंग",
+    "institudoLabel": "सेटिंग स्क्रीन पर जाएं",
+    "empregabilidade": "रोज़गार",
+    "empregabilidadeLabel": "रोज़गार स्क्रीन पर जाएँ",
+    "papoDiverso": "अलग बातचीत",
+    "papoDiversoLabel": "वर्सेरेंड गेस्प्रेक वेबसाइट पर जाएं"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "काम की भाषा",
+        "ariaLabel": "कार्य की भाषा चुनें"
+      },
+      "audiodescricao": {
+        "text": "ऑडियो विवरण",
+        "ariaLabel": "ऑडियो विवरण सक्रिय करें"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "अपनी भाषा खोजें...",
+    "language": "पुर्तगाली (बीआर)",
+    "Portuguese": "पुर्तगाली (बीआर)",
+    "ChineseTraditional": "परंपरागत चीनी",
+    "ChineseSimplified": "सरलीकृत चीनी",
+    "English": "एंगेल्स",
+    "French": "फ्रैंस",
+    "German": "जर्मन",
+    "Italian": "इतालवी",
+    "Bengali": "बंगाली",
+    "Hindi": "हिंदी",
+    "Russian": "रूसी",
+    "Japanese": "जापान का",
+    "Korean": "कोरियाई",
+    "Vietnamese": "वियतनामी",
+    "Telugu": "तेलुगू",
+    "Cantonese": "कैंटोनीज़",
+    "Marathi": "मराठी",
+    "Tamil": "तामिल",
+    "Turkish": "तुर्क",
+    "Urdu": "उर्दू",
+    "Gujarati": "गुजराती",
+    "Polish": "ताल",
+    "Ukrainian": "यूक्रेनी",
+    "Malay": "मलायी",
+    "Kannada": "कन्नडा",
+    "Oriya": "उड़िया",
+    "Punjabi": "पंजाबी",
+    "Romanian": "रोमानियाई",
+    "Azerbaijani": "आज़रबाइजानी",
+    "Farsi": "फ़ारसी",
+    "Burmese": "बर्मी",
+    "Thai": "थाई लोग",
+    "Dutch": "डच",
+    "Yoruba": "योरूबा",
+    "Sindhi": "सिंधी"
+  }
+}

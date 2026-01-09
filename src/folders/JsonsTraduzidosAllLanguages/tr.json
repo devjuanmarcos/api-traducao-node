@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Ses oynatıcı",
+    "acessibilidade": "Erişilebilirlik",
+    "switchWithIcon": {
+      "light": "Açık temaya geç",
+      "dark": "Koyu temaya geç"
+    },
+    "ativarVLibras": "VLibras'ı etkinleştirin",
+    "trocarIdioma": "Dili değiştir",
+    "desenvolvida": {
+      "ferramenta": "Alet",
+      "desenvolvida": "tarafından geliştirildi"
+    },
+    "logo": "Biomob Logosu",
+    "barraLateral": "Web sitesi kenar çubuğu durumunu değiştirme",
+    "nossasSolucoes": "Çözümlerimiz",
+    "nossasSolucoesLabel": "Çözümleri görüntüleyin",
+    "acessibilidadeArq": "Mimari Erişilebilirlik",
+    "acessibilidadeArqLabel": "Mimari Erişilebilirlik ekranına gidin",
+    "acessibilidadeDig": "Dijital Erişilebilirlik",
+    "acessibilidadeDigLabel": "Dijital Erişilebilirlik ekranına gidin",
+    "noticias": "Haberler",
+    "noticiasLabel": "Haberler ekranına gidin",
+    "institudo": "Ayar",
+    "institudoLabel": "Ayar ekranına gidin",
+    "empregabilidade": "İstihdam",
+    "empregabilidadeLabel": "İstihdam ekranına gidin",
+    "papoDiverso": "FARKLI KONUŞMA",
+    "papoDiversoLabel": "Verserend Gesprek web sitesine gidin"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "İşin dili",
+        "ariaLabel": "Çalışma dilini seçin"
+      },
+      "audiodescricao": {
+        "text": "Sesli açıklama",
+        "ariaLabel": "Sesli açıklamayı etkinleştir"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Dilinizi bulun...",
+    "language": "Portekizce (BR)",
+    "Portuguese": "Portekizce (BR)",
+    "ChineseTraditional": "Geleneksel Çince",
+    "ChineseSimplified": "Basitleştirilmiş Çince",
+    "English": "Engels",
+    "French": "Frans",
+    "German": "Almanca",
+    "Italian": "İtalyan",
+    "Bengali": "Bengalce",
+    "Hindi": "Hintçe",
+    "Russian": "Rusça",
+    "Japanese": "Japonya",
+    "Korean": "Korece",
+    "Vietnamese": "Vietnam",
+    "Telugu": "Telugu dili",
+    "Cantonese": "Kantonca",
+    "Marathi": "Marathi",
+    "Tamil": "Tamilce",
+    "Turkish": "Türkler",
+    "Urdu": "Urduca",
+    "Gujarati": "Gujarati dili",
+    "Polish": "Havuzlar",
+    "Ukrainian": "Ukrayna",
+    "Malay": "Malayca",
+    "Kannada": "Kannadaca",
+    "Oriya": "Odia",
+    "Punjabi": "Pencap",
+    "Romanian": "Romen",
+    "Azerbaijani": "Azerice",
+    "Farsi": "Farsça",
+    "Burmese": "Birmanya",
+    "Thai": "Tayland",
+    "Dutch": "Flemenkçe",
+    "Yoruba": "Yoruba",
+    "Sindhi": "Sindhi"
+  }
+}

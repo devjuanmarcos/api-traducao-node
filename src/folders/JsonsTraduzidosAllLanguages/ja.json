@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "オーディオプレーヤー",
+    "acessibilidade": "アクセシビリティ",
+    "switchWithIcon": {
+      "light": "ライトテーマに切り替える",
+      "dark": "ダークテーマに切り替える"
+    },
+    "ativarVLibras": "VLibra をアクティブ化する",
+    "trocarIdioma": "言語を切り替える",
+    "desenvolvida": {
+      "ferramenta": "道具",
+      "desenvolvida": "によって開発された"
+    },
+    "logo": "バイオモブのロゴ",
+    "barraLateral": "Web サイトのサイドバーのステータスを変更する",
+    "nossasSolucoes": "私たちのソリューション",
+    "nossasSolucoesLabel": "ソリューションを見る",
+    "acessibilidadeArq": "建築上のアクセシビリティ",
+    "acessibilidadeArqLabel": "建築上のアクセシビリティ画面に移動します",
+    "acessibilidadeDig": "デジタルアクセシビリティ",
+    "acessibilidadeDigLabel": "デジタル アクセシビリティ画面に移動します",
+    "noticias": "ニュース",
+    "noticiasLabel": "ニュース画面に移動します",
+    "institudo": "設定",
+    "institudoLabel": "設定画面に移動します",
+    "empregabilidade": "雇用",
+    "empregabilidadeLabel": "採用画面に移動します",
+    "papoDiverso": "別の会話",
+    "papoDiversoLabel": "Verserend Gesprek の Web サイトにアクセスします。"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "仕事の言語",
+        "ariaLabel": "仕事の言語を選択してください"
+      },
+      "audiodescricao": {
+        "text": "音声解説",
+        "ariaLabel": "音声説明を有効にする"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "自分の言語を見つけてください...",
+    "language": "ポルトガル人 (BR)",
+    "Portuguese": "ポルトガル人 (BR)",
+    "ChineseTraditional": "繁体字中国語",
+    "ChineseSimplified": "簡体字中国語",
+    "English": "エンゲルス",
+    "French": "フランス",
+    "German": "ドイツ語",
+    "Italian": "イタリア語",
+    "Bengali": "ベンガル語",
+    "Hindi": "ヒンディー語",
+    "Russian": "ロシア",
+    "Japanese": "日本の",
+    "Korean": "韓国人",
+    "Vietnamese": "ベトナム語",
+    "Telugu": "テルグ語",
+    "Cantonese": "広東語",
+    "Marathi": "マラーティー語",
+    "Tamil": "タミル語",
+    "Turkish": "トルコ人",
+    "Urdu": "ウルドゥー語",
+    "Gujarati": "グジャラート語",
+    "Polish": "プール",
+    "Ukrainian": "ウクライナ語",
+    "Malay": "マレー語",
+    "Kannada": "カンナダ語",
+    "Oriya": "オディア",
+    "Punjabi": "パンジャブ語",
+    "Romanian": "ルーマニア語",
+    "Azerbaijani": "アゼルバイジャン語",
+    "Farsi": "ペルシア語",
+    "Burmese": "ビルマ語",
+    "Thai": "タイ人",
+    "Dutch": "オランダ語",
+    "Yoruba": "ヨルバ語",
+    "Sindhi": "シンド語"
+  }
+}

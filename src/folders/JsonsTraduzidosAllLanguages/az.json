@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "leitorAudio": "Audio pleyer",
+    "acessibilidade": "Əlçatanlıq",
+    "switchWithIcon": {
+      "light": "Yüngül mövzuya keçin",
+      "dark": "Qaranlıq mövzuya keçin"
+    },
+    "ativarVLibras": "VLibraları aktivləşdirin",
+    "trocarIdioma": "Dili dəyişin",
+    "desenvolvida": {
+      "ferramenta": "Alət",
+      "desenvolvida": "tərəfindən hazırlanmışdır"
+    },
+    "logo": "Biomob loqosu",
+    "barraLateral": "Veb saytın yan panel statusunu dəyişdirin",
+    "nossasSolucoes": "Bizim həllərimiz",
+    "nossasSolucoesLabel": "Həll yollarına baxın",
+    "acessibilidadeArq": "Memarlıq əlçatanlığı",
+    "acessibilidadeArqLabel": "Memarlıq əlçatanlığı ekranına keçin",
+    "acessibilidadeDig": "Rəqəmsal Əlçatanlıq",
+    "acessibilidadeDigLabel": "Rəqəmsal Əlçatanlıq ekranına keçin",
+    "noticias": "Xəbərlər",
+    "noticiasLabel": "Xəbərlər ekranına keçin",
+    "institudo": "Parametr",
+    "institudoLabel": "Parametrlər ekranına keçin",
+    "empregabilidade": "Məşğulluq",
+    "empregabilidadeLabel": "Məşğulluq ekranına keçin",
+    "papoDiverso": "FƏRQLİ SÖHBƏT",
+    "papoDiversoLabel": "Verserend Gesprek veb saytına daxil olun"
+  },
+  "ObraPage": {
+    "buttons": {
+      "linguagemObra": {
+        "text": "İşin dili",
+        "ariaLabel": "İş dilini seçin"
+      },
+      "audiodescricao": {
+        "text": "Audio təsviri",
+        "ariaLabel": "Audio təsviri aktivləşdirin"
+      }
+    }
+  },
+  "Language": {
+    "pesquise": "Dilinizi tapın...",
+    "language": "Portuqallar (BR)",
+    "Portuguese": "Portuqallar (BR)",
+    "ChineseTraditional": "Ənənəvi Çin",
+    "ChineseSimplified": "Sadələşdirilmiş Çin dili",
+    "English": "Engels",
+    "French": "Frans",
+    "German": "alman",
+    "Italian": "italyan",
+    "Bengali": "benqal dili",
+    "Hindi": "hind",
+    "Russian": "rus",
+    "Japanese": "Yaponiyanın",
+    "Korean": "koreyalı",
+    "Vietnamese": "vyetnamlı",
+    "Telugu": "teluqu dili",
+    "Cantonese": "kanton dili",
+    "Marathi": "marati dili",
+    "Tamil": "tamil",
+    "Turkish": "türklər",
+    "Urdu": "Urdu",
+    "Gujarati": "qucarat dili",
+    "Polish": "Hovuzlar",
+    "Ukrainian": "ukraynalı",
+    "Malay": "malay",
+    "Kannada": "Kannada",
+    "Oriya": "Odia",
+    "Punjabi": "Pəncabi",
+    "Romanian": "rumın",
+    "Azerbaijani": "Azərbaycan",
+    "Farsi": "fars",
+    "Burmese": "birma",
+    "Thai": "Thais",
+    "Dutch": "holland",
+    "Yoruba": "yoruba",
+    "Sindhi": "sindhi"
+  }
+}
